@@ -1,0 +1,2675 @@
+[
+  {
+    "id": "76-001",
+    "date": "8.31.2015",
+    "duration": 10,
+    "numberOfEmployees": 13,
+    "goal": 1,
+    "place": "Самара (Самарская область)",
+    "estimatedPayment": 694000
+  },
+  {
+    "id": "76-002",
+    "date": "9.1.2015",
+    "duration": 4,
+    "numberOfEmployees": 14,
+    "goal": 1,
+    "place": "Санкт-Петербург (Ленинградская область)",
+    "estimatedPayment": 368000
+  },
+  {
+    "id": "76-003",
+    "date": "9.3.2015",
+    "duration": 1,
+    "numberOfEmployees": 4,
+    "goal": 6,
+    "place": "Ярославль (Ярославская область)",
+    "estimatedPayment": 76000
+  },
+  {
+    "id": "76-004",
+    "date": "9.3.2015",
+    "duration": 8,
+    "numberOfEmployees": 8,
+    "goal": 2,
+    "place": "Великий Новгород (Новгородская область)",
+    "estimatedPayment": 411000
+  },
+  {
+    "id": "76-005",
+    "date": "9.4.2015",
+    "duration": 9,
+    "numberOfEmployees": 13,
+    "goal": 2,
+    "place": "Клин (Московская область)",
+    "estimatedPayment": 678000
+  },
+  {
+    "id": "76-006",
+    "date": "9.4.2015",
+    "duration": 24,
+    "numberOfEmployees": 11,
+    "goal": 2,
+    "place": "Переславль-Залесский (Ярославская область)",
+    "estimatedPayment": 1321000
+  },
+  {
+    "id": "76-007",
+    "date": "9.5.2015",
+    "duration": 16,
+    "numberOfEmployees": 13,
+    "goal": 2,
+    "place": "Адлер (Краснодарский край)",
+    "estimatedPayment": 1084000
+  },
+  {
+    "id": "76-008",
+    "date": "9.5.2015",
+    "duration": 2,
+    "numberOfEmployees": 2,
+    "goal": 5,
+    "place": "Новороссийск (Краснодарский край)",
+    "estimatedPayment": 109000
+  },
+  {
+    "id": "76-009",
+    "date": "9.5.2015",
+    "duration": 2,
+    "numberOfEmployees": 2,
+    "goal": 5,
+    "place": "Осташков (Тверская область)",
+    "estimatedPayment": 45000
+  },
+  {
+    "id": "76-010",
+    "date": "9.6.2015",
+    "duration": 12,
+    "numberOfEmployees": 8,
+    "goal": 3,
+    "place": "Калуга (Калужская область)",
+    "estimatedPayment": 518000
+  },
+  {
+    "id": "76-011",
+    "date": "9.6.2015",
+    "duration": 16,
+    "numberOfEmployees": 6,
+    "goal": 3,
+    "place": "Архангельск (Архангельская область)",
+    "estimatedPayment": 575000
+  },
+  {
+    "id": "76-012",
+    "date": "9.7.2015",
+    "duration": 24,
+    "numberOfEmployees": 8,
+    "goal": 1,
+    "place": "Руза (Московская область)",
+    "estimatedPayment": 973000
+  },
+  {
+    "id": "76-013",
+    "date": "9.8.2015",
+    "duration": 7,
+    "numberOfEmployees": 15,
+    "goal": 2,
+    "place": "Покров (Владимирская область)",
+    "estimatedPayment": 529000
+  },
+  {
+    "id": "76-014",
+    "date": "9.8.2015",
+    "duration": 30,
+    "numberOfEmployees": 7,
+    "goal": 2,
+    "place": "Гатчина (Ленинградская область)",
+    "estimatedPayment": 1134000
+  },
+  {
+    "id": "76-015",
+    "date": "9.10.2015",
+    "duration": 12,
+    "numberOfEmployees": 3,
+    "goal": 2,
+    "place": "Изборск (Псковская область)",
+    "estimatedPayment": 277000
+  },
+  {
+    "id": "76-016",
+    "date": "9.12.2015",
+    "duration": 4,
+    "numberOfEmployees": 5,
+    "goal": 4,
+    "place": "Мышкин (Ярославская область)",
+    "estimatedPayment": 186000
+  },
+  {
+    "id": "76-017",
+    "date": "9.12.2015",
+    "duration": 30,
+    "numberOfEmployees": 12,
+    "goal": 2,
+    "place": "Псков (Псковская область)",
+    "estimatedPayment": 1815000
+  },
+  {
+    "id": "76-018",
+    "date": "9.13.2015",
+    "duration": 6,
+    "numberOfEmployees": 8,
+    "goal": 2,
+    "place": "Кисловодск (Ставропольский край)",
+    "estimatedPayment": 247000
+  },
+  {
+    "id": "76-019",
+    "date": "9.13.2015",
+    "duration": 10,
+    "numberOfEmployees": 6,
+    "goal": 1,
+    "place": "Осташков (Тверская область)",
+    "estimatedPayment": 325000
+  },
+  {
+    "id": "76-020",
+    "date": "9.14.2015",
+    "duration": 6,
+    "numberOfEmployees": 12,
+    "goal": 1,
+    "place": "Пушкин (Ленинградская область)",
+    "estimatedPayment": 455000
+  },
+  {
+    "id": "76-021",
+    "date": "9.15.2015",
+    "duration": 30,
+    "numberOfEmployees": 10,
+    "goal": 1,
+    "place": "Ярославль (Ярославская область)",
+    "estimatedPayment": 1524000
+  },
+  {
+    "id": "76-022",
+    "date": "9.16.2015",
+    "duration": 9,
+    "numberOfEmployees": 10,
+    "goal": 2,
+    "place": "Переславль-Залесский (Ярославская область)",
+    "estimatedPayment": 542000
+  },
+  {
+    "id": "76-023",
+    "date": "9.19.2015",
+    "duration": 24,
+    "numberOfEmployees": 6,
+    "goal": 1,
+    "place": "Соловки (Архангельская область)",
+    "estimatedPayment": 805000
+  },
+  {
+    "id": "76-024",
+    "date": "9.20.2015",
+    "duration": 1,
+    "numberOfEmployees": 2,
+    "goal": 5,
+    "place": "Ростов Великий (Ярославская область)",
+    "estimatedPayment": 89000
+  },
+  {
+    "id": "76-025",
+    "date": "9.23.2015",
+    "duration": 3,
+    "numberOfEmployees": 14,
+    "goal": 1,
+    "place": "Москва (Московская область)",
+    "estimatedPayment": 273000
+  },
+  {
+    "id": "76-026",
+    "date": "9.23.2015",
+    "duration": 10,
+    "numberOfEmployees": 6,
+    "goal": 2,
+    "place": "Калязин (Тверская область)",
+    "estimatedPayment": 400000
+  },
+  {
+    "id": "76-027",
+    "date": "9.24.2015",
+    "duration": 3,
+    "numberOfEmployees": 10,
+    "goal": 1,
+    "place": "Вологда (Вологодская область)",
+    "estimatedPayment": 176000
+  },
+  {
+    "id": "76-028",
+    "date": "9.26.2015",
+    "duration": 1,
+    "numberOfEmployees": 2,
+    "goal": 5,
+    "place": "Серпухов (Московская область)",
+    "estimatedPayment": 100000
+  },
+  {
+    "id": "76-029",
+    "date": "9.27.2015",
+    "duration": 6,
+    "numberOfEmployees": 11,
+    "goal": 2,
+    "place": "Зарайск (Московская область)",
+    "estimatedPayment": 417000
+  },
+  {
+    "id": "76-030",
+    "date": "9.28.2015",
+    "duration": 20,
+    "numberOfEmployees": 3,
+    "goal": 1,
+    "place": "Великий Устюг (Вологодская область)",
+    "estimatedPayment": 331000
+  },
+  {
+    "id": "76-031",
+    "date": "9.29.2015",
+    "duration": 12,
+    "numberOfEmployees": 12,
+    "goal": 2,
+    "place": "Тотьма (Вологодская область)",
+    "estimatedPayment": 812000
+  },
+  {
+    "id": "76-032",
+    "date": "10.2.2015",
+    "duration": 2,
+    "numberOfEmployees": 3,
+    "goal": 5,
+    "place": "Юрьев-Польский (Владимирская область)",
+    "estimatedPayment": 97000
+  },
+  {
+    "id": "76-033",
+    "date": "10.4.2015",
+    "duration": 5,
+    "numberOfEmployees": 5,
+    "goal": 4,
+    "place": "Серпухов (Московская область)",
+    "estimatedPayment": 180000
+  },
+  {
+    "id": "76-034",
+    "date": "10.9.2015",
+    "duration": 5,
+    "numberOfEmployees": 12,
+    "goal": 2,
+    "place": "Светлогорск (Калининградская область)",
+    "estimatedPayment": 364000
+  },
+  {
+    "id": "76-035",
+    "date": "10.10.2015",
+    "duration": 15,
+    "numberOfEmployees": 12,
+    "goal": 2,
+    "place": "Подольск (Московская область)",
+    "estimatedPayment": 956000
+  },
+  {
+    "id": "76-036",
+    "date": "10.11.2015",
+    "duration": 2,
+    "numberOfEmployees": 2,
+    "goal": 5,
+    "place": "Астрахань (Астраханская область)",
+    "estimatedPayment": 70000
+  },
+  {
+    "id": "76-037",
+    "date": "10.13.2015",
+    "duration": 4,
+    "numberOfEmployees": 4,
+    "goal": 4,
+    "place": "Липецк (Липецкая область)",
+    "estimatedPayment": 125000
+  },
+  {
+    "id": "76-038",
+    "date": "10.13.2015",
+    "duration": 6,
+    "numberOfEmployees": 7,
+    "goal": 4,
+    "place": "Геленджик (Краснодарский край)",
+    "estimatedPayment": 250000
+  },
+  {
+    "id": "76-039",
+    "date": "10.20.2015",
+    "duration": 30,
+    "numberOfEmployees": 8,
+    "goal": 2,
+    "place": "Самара (Самарская область)",
+    "estimatedPayment": 1280000
+  },
+  {
+    "id": "76-040",
+    "date": "10.21.2015",
+    "duration": 10,
+    "numberOfEmployees": 13,
+    "goal": 1,
+    "place": "Муром (Владимирская область)",
+    "estimatedPayment": 713000
+  },
+  {
+    "id": "76-041",
+    "date": "10.25.2015",
+    "duration": 4,
+    "numberOfEmployees": 9,
+    "goal": 4,
+    "place": "Малоярославец (Калужская область)",
+    "estimatedPayment": 238000
+  },
+  {
+    "id": "76-042",
+    "date": "10.25.2015",
+    "duration": 12,
+    "numberOfEmployees": 13,
+    "goal": 1,
+    "place": "Сергиев Посад (Московская область)",
+    "estimatedPayment": 865000
+  },
+  {
+    "id": "76-043",
+    "date": "10.25.2015",
+    "duration": 18,
+    "numberOfEmployees": 5,
+    "goal": 3,
+    "place": "Адлер (Краснодарский край)",
+    "estimatedPayment": 547000
+  },
+  {
+    "id": "76-044",
+    "date": "10.26.2015",
+    "duration": 6,
+    "numberOfEmployees": 8,
+    "goal": 3,
+    "place": "Кириллов (Вологодская область)",
+    "estimatedPayment": 263000
+  },
+  {
+    "id": "76-045",
+    "date": "10.27.2015",
+    "duration": 20,
+    "numberOfEmployees": 11,
+    "goal": 1,
+    "place": "Псков (Псковская область)",
+    "estimatedPayment": 1105000
+  },
+  {
+    "id": "76-046",
+    "date": "10.28.2015",
+    "duration": 20,
+    "numberOfEmployees": 14,
+    "goal": 3,
+    "place": "Изборск (Псковская область)",
+    "estimatedPayment": 1494000
+  },
+  {
+    "id": "76-047",
+    "date": "10.29.2015",
+    "duration": 4,
+    "numberOfEmployees": 13,
+    "goal": 4,
+    "place": "Козельск (Калужская область)",
+    "estimatedPayment": 283000
+  },
+  {
+    "id": "76-048",
+    "date": "10.29.2015",
+    "duration": 18,
+    "numberOfEmployees": 15,
+    "goal": 2,
+    "place": "Псков (Псковская область)",
+    "estimatedPayment": 1420000
+  },
+  {
+    "id": "76-049",
+    "date": "11.1.2015",
+    "duration": 1,
+    "numberOfEmployees": 3,
+    "goal": 6,
+    "place": "Кронштадт (Ленинградская область)",
+    "estimatedPayment": 38000
+  },
+  {
+    "id": "76-050",
+    "date": "11.4.2015",
+    "duration": 8,
+    "numberOfEmployees": 6,
+    "goal": 2,
+    "place": "Новороссийск (Краснодарский край)",
+    "estimatedPayment": 262000
+  },
+  {
+    "id": "76-051",
+    "date": "11.4.2015",
+    "duration": 12,
+    "numberOfEmployees": 10,
+    "goal": 3,
+    "place": "Ярославль (Ярославская область)",
+    "estimatedPayment": 662000
+  },
+  {
+    "id": "76-052",
+    "date": "11.9.2015",
+    "duration": 15,
+    "numberOfEmployees": 9,
+    "goal": 1,
+    "place": "Псков (Псковская область)",
+    "estimatedPayment": 702000
+  },
+  {
+    "id": "76-053",
+    "date": "11.10.2015",
+    "duration": 8,
+    "numberOfEmployees": 5,
+    "goal": 1,
+    "place": "Кисловодск (Ставропольский край)",
+    "estimatedPayment": 288000
+  },
+  {
+    "id": "76-054",
+    "date": "11.12.2015",
+    "duration": 8,
+    "numberOfEmployees": 9,
+    "goal": 2,
+    "place": "Углич (Ярославская область)",
+    "estimatedPayment": 378000
+  },
+  {
+    "id": "76-055",
+    "date": "11.12.2015",
+    "duration": 20,
+    "numberOfEmployees": 13,
+    "goal": 2,
+    "place": "Покров (Владимирская область)",
+    "estimatedPayment": 1309000
+  },
+  {
+    "id": "76-056",
+    "date": "11.12.2015",
+    "duration": 8,
+    "numberOfEmployees": 5,
+    "goal": 4,
+    "place": "Клин (Московская область)",
+    "estimatedPayment": 224000
+  },
+  {
+    "id": "76-057",
+    "date": "11.14.2015",
+    "duration": 10,
+    "numberOfEmployees": 10,
+    "goal": 1,
+    "place": "Валдай (Новгородская область)",
+    "estimatedPayment": 547000
+  },
+  {
+    "id": "76-058",
+    "date": "11.14.2015",
+    "duration": 12,
+    "numberOfEmployees": 8,
+    "goal": 2,
+    "place": "Петергоф (Ленинградская область)",
+    "estimatedPayment": 561000
+  },
+  {
+    "id": "76-059",
+    "date": "11.17.2015",
+    "duration": 2,
+    "numberOfEmployees": 6,
+    "goal": 4,
+    "place": "Лазаревское (Краснодарский край)",
+    "estimatedPayment": 137000
+  },
+  {
+    "id": "76-060",
+    "date": "11.17.2015",
+    "duration": 6,
+    "numberOfEmployees": 6,
+    "goal": 4,
+    "place": "Вологда (Вологодская область)",
+    "estimatedPayment": 186000
+  },
+  {
+    "id": "76-061",
+    "date": "11.18.2015",
+    "duration": 16,
+    "numberOfEmployees": 9,
+    "goal": 2,
+    "place": "Санкт-Петербург (Ленинградская область)",
+    "estimatedPayment": 797000
+  },
+  {
+    "id": "76-062",
+    "date": "11.19.2015",
+    "duration": 9,
+    "numberOfEmployees": 8,
+    "goal": 1,
+    "place": "Вологда (Вологодская область)",
+    "estimatedPayment": 404000
+  },
+  {
+    "id": "76-063",
+    "date": "11.20.2015",
+    "duration": 3,
+    "numberOfEmployees": 14,
+    "goal": 1,
+    "place": "Великий Устюг (Вологодская область)",
+    "estimatedPayment": 278000
+  },
+  {
+    "id": "76-064",
+    "date": "11.20.2015",
+    "duration": 10,
+    "numberOfEmployees": 12,
+    "goal": 2,
+    "place": "Петергоф (Ленинградская область)",
+    "estimatedPayment": 658000
+  },
+  {
+    "id": "76-065",
+    "date": "11.21.2015",
+    "duration": 8,
+    "numberOfEmployees": 10,
+    "goal": 4,
+    "place": "Кириллов (Вологодская область)",
+    "estimatedPayment": 478000
+  },
+  {
+    "id": "76-066",
+    "date": "11.21.2015",
+    "duration": 25,
+    "numberOfEmployees": 7,
+    "goal": 1,
+    "place": "Звенигород (Московская область)",
+    "estimatedPayment": 940000
+  },
+  {
+    "id": "76-067",
+    "date": "11.22.2015",
+    "duration": 12,
+    "numberOfEmployees": 12,
+    "goal": 2,
+    "place": "Светлогорск (Калининградская область)",
+    "estimatedPayment": 782000
+  },
+  {
+    "id": "76-068",
+    "date": "11.24.2015",
+    "duration": 6,
+    "numberOfEmployees": 5,
+    "goal": 4,
+    "place": "Касимов (Рязанская область)",
+    "estimatedPayment": 171000
+  },
+  {
+    "id": "76-069",
+    "date": "11.25.2015",
+    "duration": 10,
+    "numberOfEmployees": 10,
+    "goal": 2,
+    "place": "Клин (Московская область)",
+    "estimatedPayment": 596000
+  },
+  {
+    "id": "76-070",
+    "date": "11.25.2015",
+    "duration": 15,
+    "numberOfEmployees": 4,
+    "goal": 1,
+    "place": "Зарайск (Московская область)",
+    "estimatedPayment": 356000
+  },
+  {
+    "id": "76-071",
+    "date": "11.26.2015",
+    "duration": 6,
+    "numberOfEmployees": 5,
+    "goal": 4,
+    "place": "Петергоф (Ленинградская область)",
+    "estimatedPayment": 217000
+  },
+  {
+    "id": "76-072",
+    "date": "11.26.2015",
+    "duration": 10,
+    "numberOfEmployees": 7,
+    "goal": 1,
+    "place": "Зарайск (Московская область)",
+    "estimatedPayment": 395000
+  },
+  {
+    "id": "76-073",
+    "date": "11.27.2015",
+    "duration": 5,
+    "numberOfEmployees": 5,
+    "goal": 1,
+    "place": "Верея (Московская область)",
+    "estimatedPayment": 207000
+  },
+  {
+    "id": "76-074",
+    "date": "11.28.2015",
+    "duration": 8,
+    "numberOfEmployees": 7,
+    "goal": 1,
+    "place": "Великий Новгород (Новгородская область)",
+    "estimatedPayment": 341000
+  },
+  {
+    "id": "76-075",
+    "date": "11.28.2015",
+    "duration": 9,
+    "numberOfEmployees": 15,
+    "goal": 2,
+    "place": "Рязань (Рязанская область)",
+    "estimatedPayment": 765000
+  },
+  {
+    "id": "76-076",
+    "date": "11.29.2015",
+    "duration": 5,
+    "numberOfEmployees": 12,
+    "goal": 1,
+    "place": "Муром (Владимирская область)",
+    "estimatedPayment": 317000
+  },
+  {
+    "id": "76-077",
+    "date": "12.2.2015",
+    "duration": 4,
+    "numberOfEmployees": 14,
+    "goal": 3,
+    "place": "Плес (Ивановская область)",
+    "estimatedPayment": 324000
+  },
+  {
+    "id": "76-078",
+    "date": "12.2.2015",
+    "duration": 5,
+    "numberOfEmployees": 9,
+    "goal": 4,
+    "place": "Великий Новгород (Новгородская область)",
+    "estimatedPayment": 294000
+  },
+  {
+    "id": "76-079",
+    "date": "12.2.2015",
+    "duration": 8,
+    "numberOfEmployees": 10,
+    "goal": 3,
+    "place": "Углич (Ярославская область)",
+    "estimatedPayment": 429000
+  },
+  {
+    "id": "76-080",
+    "date": "12.2.2015",
+    "duration": 10,
+    "numberOfEmployees": 16,
+    "goal": 2,
+    "place": "Серпухов (Московская область)",
+    "estimatedPayment": 811000
+  },
+  {
+    "id": "76-081",
+    "date": "12.2.2015",
+    "duration": 10,
+    "numberOfEmployees": 7,
+    "goal": 2,
+    "place": "Пятигорск (Ставропольский край)",
+    "estimatedPayment": 382000
+  },
+  {
+    "id": "76-082",
+    "date": "12.2.2015",
+    "duration": 1,
+    "numberOfEmployees": 4,
+    "goal": 4,
+    "place": "Ейск (Краснодарский край)",
+    "estimatedPayment": 83000
+  },
+  {
+    "id": "76-083",
+    "date": "12.2.2015",
+    "duration": 12,
+    "numberOfEmployees": 8,
+    "goal": 1,
+    "place": "Краснодар (Краснодарский край)",
+    "estimatedPayment": 528000
+  },
+  {
+    "id": "76-084",
+    "date": "12.4.2015",
+    "duration": 1,
+    "numberOfEmployees": 14,
+    "goal": 1,
+    "place": "Егорьевск (Московская область)",
+    "estimatedPayment": 81000
+  },
+  {
+    "id": "76-085",
+    "date": "12.7.2015",
+    "duration": 8,
+    "numberOfEmployees": 12,
+    "goal": 4,
+    "place": "Иваново (Ивановская область)",
+    "estimatedPayment": 580000
+  },
+  {
+    "id": "76-086",
+    "date": "12.9.2015",
+    "duration": 12,
+    "numberOfEmployees": 10,
+    "goal": 1,
+    "place": "Тольятти (Самарская область)",
+    "estimatedPayment": 628000
+  },
+  {
+    "id": "76-087",
+    "date": "12.12.2015",
+    "duration": 1,
+    "numberOfEmployees": 2,
+    "goal": 5,
+    "place": "Касимов (Рязанская область)",
+    "estimatedPayment": 76000
+  },
+  {
+    "id": "76-088",
+    "date": "12.16.2015",
+    "duration": 15,
+    "numberOfEmployees": 10,
+    "goal": 2,
+    "place": "Муром (Владимирская область)",
+    "estimatedPayment": 766000
+  },
+  {
+    "id": "76-089",
+    "date": "12.17.2015",
+    "duration": 9,
+    "numberOfEmployees": 7,
+    "goal": 2,
+    "place": "Рыбинск (Ярославская область)",
+    "estimatedPayment": 362000
+  },
+  {
+    "id": "76-090",
+    "date": "12.17.2015",
+    "duration": 6,
+    "numberOfEmployees": 7,
+    "goal": 4,
+    "place": "Геленджик (Краснодарский край)",
+    "estimatedPayment": 219000
+  },
+  {
+    "id": "76-091",
+    "date": "12.17.2015",
+    "duration": 16,
+    "numberOfEmployees": 8,
+    "goal": 2,
+    "place": "Торжок (Тверская область)",
+    "estimatedPayment": 735000
+  },
+  {
+    "id": "76-092",
+    "date": "12.18.2015",
+    "duration": 6,
+    "numberOfEmployees": 11,
+    "goal": 2,
+    "place": "Боровск (Калужская область)",
+    "estimatedPayment": 334000
+  },
+  {
+    "id": "76-093",
+    "date": "12.18.2015",
+    "duration": 7,
+    "numberOfEmployees": 4,
+    "goal": 4,
+    "place": "Тотьма (Вологодская область)",
+    "estimatedPayment": 187000
+  },
+  {
+    "id": "76-094",
+    "date": "12.19.2015",
+    "duration": 1,
+    "numberOfEmployees": 3,
+    "goal": 4,
+    "place": "Луховицы (Московская область)",
+    "estimatedPayment": 21000
+  },
+  {
+    "id": "76-095",
+    "date": "12.20.2015",
+    "duration": 15,
+    "numberOfEmployees": 10,
+    "goal": 3,
+    "place": "Клин (Московская область)",
+    "estimatedPayment": 776000
+  },
+  {
+    "id": "76-096",
+    "date": "12.23.2015",
+    "duration": 6,
+    "numberOfEmployees": 15,
+    "goal": 3,
+    "place": "Руза (Московская область)",
+    "estimatedPayment": 514000
+  },
+  {
+    "id": "76-097",
+    "date": "12.24.2015",
+    "duration": 2,
+    "numberOfEmployees": 3,
+    "goal": 6,
+    "place": "Тамань (Краснодарский край)",
+    "estimatedPayment": 35000
+  },
+  {
+    "id": "76-098",
+    "date": "12.26.2015",
+    "duration": 3,
+    "numberOfEmployees": 12,
+    "goal": 3,
+    "place": "Пушкин (Ленинградская область)",
+    "estimatedPayment": 248000
+  },
+  {
+    "id": "76-099",
+    "date": "12.26.2015",
+    "duration": 25,
+    "numberOfEmployees": 13,
+    "goal": 1,
+    "place": "Вологда (Вологодская область)",
+    "estimatedPayment": 1653000
+  },
+  {
+    "id": "76-100",
+    "date": "12.27.2015",
+    "duration": 8,
+    "numberOfEmployees": 11,
+    "goal": 3,
+    "place": "Клин (Московская область)",
+    "estimatedPayment": 442000
+  },
+  {
+    "id": "76-101",
+    "date": "12.28.2015",
+    "duration": 3,
+    "numberOfEmployees": 10,
+    "goal": 1,
+    "place": "Иваново (Ивановская область)",
+    "estimatedPayment": 189000
+  },
+  {
+    "id": "76-102",
+    "date": "12.28.2015",
+    "duration": 15,
+    "numberOfEmployees": 14,
+    "goal": 3,
+    "place": "Звенигород (Московская область)",
+    "estimatedPayment": 1116000
+  },
+  {
+    "id": "76-103",
+    "date": "12.29.2015",
+    "duration": 8,
+    "numberOfEmployees": 8,
+    "goal": 4,
+    "place": "Череповец (Вологодская область)",
+    "estimatedPayment": 358000
+  },
+  {
+    "id": "76-104",
+    "date": "12.30.2015",
+    "duration": 5,
+    "numberOfEmployees": 6,
+    "goal": 2,
+    "place": "Архангельск (Архангельская область)",
+    "estimatedPayment": 216000
+  },
+  {
+    "id": "76-105",
+    "date": "12.31.2015",
+    "duration": 12,
+    "numberOfEmployees": 14,
+    "goal": 2,
+    "place": "Переславль-Залесский (Ярославская область)",
+    "estimatedPayment": 841000
+  },
+  {
+    "id": "76-106",
+    "date": "1.2.2016",
+    "duration": 4,
+    "numberOfEmployees": 15,
+    "goal": 3,
+    "place": "Липецк (Липецкая область)",
+    "estimatedPayment": 361000
+  },
+  {
+    "id": "76-107",
+    "date": "1.2.2016",
+    "duration": 9,
+    "numberOfEmployees": 8,
+    "goal": 2,
+    "place": "Мышкин (Ярославская область)",
+    "estimatedPayment": 386000
+  },
+  {
+    "id": "76-108",
+    "date": "1.5.2016",
+    "duration": 4,
+    "numberOfEmployees": 5,
+    "goal": 4,
+    "place": "Санкт-Петербург (Ленинградская область)",
+    "estimatedPayment": 144000
+  },
+  {
+    "id": "76-109",
+    "date": "1.7.2016",
+    "duration": 5,
+    "numberOfEmployees": 11,
+    "goal": 2,
+    "place": "Сочи (Краснодарский край)",
+    "estimatedPayment": 303000
+  },
+  {
+    "id": "76-110",
+    "date": "1.7.2016",
+    "duration": 9,
+    "numberOfEmployees": 10,
+    "goal": 2,
+    "place": "Калязин (Тверская область)",
+    "estimatedPayment": 453000
+  },
+  {
+    "id": "76-111",
+    "date": "1.8.2016",
+    "duration": 30,
+    "numberOfEmployees": 9,
+    "goal": 1,
+    "place": "Пятигорск (Ставропольский край)",
+    "estimatedPayment": 1387000
+  },
+  {
+    "id": "76-112",
+    "date": "1.8.2016",
+    "duration": 30,
+    "numberOfEmployees": 7,
+    "goal": 1,
+    "place": "Верея (Московская область)",
+    "estimatedPayment": 1087000
+  },
+  {
+    "id": "76-113",
+    "date": "1.9.2016",
+    "duration": 8,
+    "numberOfEmployees": 8,
+    "goal": 3,
+    "place": "Лазаревское (Краснодарский край)",
+    "estimatedPayment": 418000
+  },
+  {
+    "id": "76-114",
+    "date": "1.11.2016",
+    "duration": 15,
+    "numberOfEmployees": 16,
+    "goal": 2,
+    "place": "Соловки (Архангельская область)",
+    "estimatedPayment": 1259000
+  },
+  {
+    "id": "76-115",
+    "date": "1.13.2016",
+    "duration": 5,
+    "numberOfEmployees": 15,
+    "goal": 2,
+    "place": "Иваново (Ивановская область)",
+    "estimatedPayment": 385000
+  },
+  {
+    "id": "76-116",
+    "date": "1.14.2016",
+    "duration": 8,
+    "numberOfEmployees": 6,
+    "goal": 4,
+    "place": "Касимов (Рязанская область)",
+    "estimatedPayment": 284000
+  },
+  {
+    "id": "76-117",
+    "date": "1.15.2016",
+    "duration": 8,
+    "numberOfEmployees": 8,
+    "goal": 3,
+    "place": "Подольск (Московская область)",
+    "estimatedPayment": 384000
+  },
+  {
+    "id": "76-118",
+    "date": "1.16.2016",
+    "duration": 2,
+    "numberOfEmployees": 8,
+    "goal": 4,
+    "place": "Рыбинск (Ярославская область)",
+    "estimatedPayment": 159000
+  },
+  {
+    "id": "76-119",
+    "date": "1.19.2016",
+    "duration": 7,
+    "numberOfEmployees": 8,
+    "goal": 2,
+    "place": "Владимир (Владимирская область)",
+    "estimatedPayment": 355000
+  },
+  {
+    "id": "76-120",
+    "date": "1.20.2016",
+    "duration": 12,
+    "numberOfEmployees": 13,
+    "goal": 2,
+    "place": "Мышкин (Ярославская область)",
+    "estimatedPayment": 791000
+  },
+  {
+    "id": "76-121",
+    "date": "1.21.2016",
+    "duration": 6,
+    "numberOfEmployees": 7,
+    "goal": 3,
+    "place": "Коломна (Московская область)",
+    "estimatedPayment": 298000
+  },
+  {
+    "id": "76-122",
+    "date": "1.24.2016",
+    "duration": 16,
+    "numberOfEmployees": 10,
+    "goal": 3,
+    "place": "Покров (Владимирская область)",
+    "estimatedPayment": 883000
+  },
+  {
+    "id": "76-123",
+    "date": "1.25.2016",
+    "duration": 10,
+    "numberOfEmployees": 6,
+    "goal": 3,
+    "place": "Зарайск (Московская область)",
+    "estimatedPayment": 386000
+  },
+  {
+    "id": "76-124",
+    "date": "1.26.2016",
+    "duration": 7,
+    "numberOfEmployees": 11,
+    "goal": 2,
+    "place": "Зарайск (Московская область)",
+    "estimatedPayment": 448000
+  },
+  {
+    "id": "76-125",
+    "date": "1.27.2016",
+    "duration": 20,
+    "numberOfEmployees": 6,
+    "goal": 2,
+    "place": "Кронштадт (Ленинградская область)",
+    "estimatedPayment": 626000
+  },
+  {
+    "id": "76-126",
+    "date": "1.27.2016",
+    "duration": 24,
+    "numberOfEmployees": 8,
+    "goal": 1,
+    "place": "Звенигород (Московская область)",
+    "estimatedPayment": 1013000
+  },
+  {
+    "id": "76-127",
+    "date": "1.28.2016",
+    "duration": 6,
+    "numberOfEmployees": 11,
+    "goal": 2,
+    "place": "Юрьев-Польский (Владимирская область)",
+    "estimatedPayment": 391000
+  },
+  {
+    "id": "76-128",
+    "date": "1.29.2016",
+    "duration": 2,
+    "numberOfEmployees": 4,
+    "goal": 6,
+    "place": "Переславль-Залесский (Ярославская область)",
+    "estimatedPayment": 100000
+  },
+  {
+    "id": "76-129",
+    "date": "1.29.2016",
+    "duration": 6,
+    "numberOfEmployees": 15,
+    "goal": 2,
+    "place": "Осташков (Тверская область)",
+    "estimatedPayment": 532000
+  },
+  {
+    "id": "76-130",
+    "date": "1.29.2016",
+    "duration": 16,
+    "numberOfEmployees": 16,
+    "goal": 2,
+    "place": "Санкт-Петербург (Ленинградская область)",
+    "estimatedPayment": 1369000
+  },
+  {
+    "id": "76-131",
+    "date": "1.31.2016",
+    "duration": 20,
+    "numberOfEmployees": 9,
+    "goal": 1,
+    "place": "Касимов (Рязанская область)",
+    "estimatedPayment": 952000
+  },
+  {
+    "id": "76-132",
+    "date": "2.2.2016",
+    "duration": 10,
+    "numberOfEmployees": 16,
+    "goal": 2,
+    "place": "Юрьев-Польский (Владимирская область)",
+    "estimatedPayment": 888000
+  },
+  {
+    "id": "76-133",
+    "date": "2.3.2016",
+    "duration": 6,
+    "numberOfEmployees": 12,
+    "goal": 2,
+    "place": "Петергоф (Ленинградская область)",
+    "estimatedPayment": 443000
+  },
+  {
+    "id": "76-134",
+    "date": "2.3.2016",
+    "duration": 30,
+    "numberOfEmployees": 10,
+    "goal": 1,
+    "place": "Осташков (Тверская область)",
+    "estimatedPayment": 1502000
+  },
+  {
+    "id": "76-135",
+    "date": "2.5.2016",
+    "duration": 8,
+    "numberOfEmployees": 14,
+    "goal": 1,
+    "place": "Геленджик (Краснодарский край)",
+    "estimatedPayment": 654000
+  },
+  {
+    "id": "76-136",
+    "date": "2.5.2016",
+    "duration": 25,
+    "numberOfEmployees": 9,
+    "goal": 2,
+    "place": "Анапа (Краснодарский край)",
+    "estimatedPayment": 1200000
+  },
+  {
+    "id": "76-137",
+    "date": "2.6.2016",
+    "duration": 2,
+    "numberOfEmployees": 3,
+    "goal": 4,
+    "place": "Торжок (Тверская область)",
+    "estimatedPayment": 52000
+  },
+  {
+    "id": "76-138",
+    "date": "2.7.2016",
+    "duration": 8,
+    "numberOfEmployees": 8,
+    "goal": 4,
+    "place": "Москва (Московская область)",
+    "estimatedPayment": 371000
+  },
+  {
+    "id": "76-139",
+    "date": "2.7.2016",
+    "duration": 2,
+    "numberOfEmployees": 4,
+    "goal": 4,
+    "place": "Адлер (Краснодарский край)",
+    "estimatedPayment": 60000
+  },
+  {
+    "id": "76-140",
+    "date": "2.9.2016",
+    "duration": 7,
+    "numberOfEmployees": 16,
+    "goal": 2,
+    "place": "Геленджик (Краснодарский край)",
+    "estimatedPayment": 572000
+  },
+  {
+    "id": "76-141",
+    "date": "2.13.2016",
+    "duration": 6,
+    "numberOfEmployees": 11,
+    "goal": 2,
+    "place": "Адлер (Краснодарский край)",
+    "estimatedPayment": 342000
+  },
+  {
+    "id": "76-142",
+    "date": "2.13.2016",
+    "duration": 9,
+    "numberOfEmployees": 10,
+    "goal": 2,
+    "place": "Переславль-Залесский (Ярославская область)",
+    "estimatedPayment": 542000
+  },
+  {
+    "id": "76-143",
+    "date": "2.13.2016",
+    "duration": 20,
+    "numberOfEmployees": 10,
+    "goal": 3,
+    "place": "Калуга (Калужская область)",
+    "estimatedPayment": 1027000
+  },
+  {
+    "id": "76-144",
+    "date": "2.14.2016",
+    "duration": 6,
+    "numberOfEmployees": 6,
+    "goal": 4,
+    "place": "Серпухов (Московская область)",
+    "estimatedPayment": 262000
+  },
+  {
+    "id": "76-145",
+    "date": "2.16.2016",
+    "duration": 4,
+    "numberOfEmployees": 6,
+    "goal": 4,
+    "place": "Можайск (Московская область)",
+    "estimatedPayment": 148000
+  },
+  {
+    "id": "76-146",
+    "date": "2.17.2016",
+    "duration": 8,
+    "numberOfEmployees": 10,
+    "goal": 2,
+    "place": "Кириллов (Вологодская область)",
+    "estimatedPayment": 411000
+  },
+  {
+    "id": "76-147",
+    "date": "2.17.2016",
+    "duration": 20,
+    "numberOfEmployees": 14,
+    "goal": 2,
+    "place": "Архипо-Осиповка (Краснодарский край)",
+    "estimatedPayment": 1478000
+  },
+  {
+    "id": "76-148",
+    "date": "2.18.2016",
+    "duration": 4,
+    "numberOfEmployees": 7,
+    "goal": 1,
+    "place": "Краснодар (Краснодарский край)",
+    "estimatedPayment": 192000
+  },
+  {
+    "id": "76-149",
+    "date": "2.19.2016",
+    "duration": 8,
+    "numberOfEmployees": 10,
+    "goal": 2,
+    "place": "Пушкин (Ленинградская область)",
+    "estimatedPayment": 457000
+  },
+  {
+    "id": "76-150",
+    "date": "2.20.2016",
+    "duration": 6,
+    "numberOfEmployees": 11,
+    "goal": 3,
+    "place": "Адлер (Краснодарский край)",
+    "estimatedPayment": 396000
+  },
+  {
+    "id": "76-151",
+    "date": "2.21.2016",
+    "duration": 6,
+    "numberOfEmployees": 16,
+    "goal": 2,
+    "place": "Таруса (Калужская область)",
+    "estimatedPayment": 499000
+  },
+  {
+    "id": "76-152",
+    "date": "2.21.2016",
+    "duration": 5,
+    "numberOfEmployees": 15,
+    "goal": 3,
+    "place": "Анапа (Краснодарский край)",
+    "estimatedPayment": 430000
+  },
+  {
+    "id": "76-153",
+    "date": "2.21.2016",
+    "duration": 6,
+    "numberOfEmployees": 6,
+    "goal": 2,
+    "place": "Муром (Владимирская область)",
+    "estimatedPayment": 244000
+  },
+  {
+    "id": "76-154",
+    "date": "2.21.2016",
+    "duration": 8,
+    "numberOfEmployees": 7,
+    "goal": 2,
+    "place": "Муром (Владимирская область)",
+    "estimatedPayment": 336000
+  },
+  {
+    "id": "76-155",
+    "date": "2.22.2016",
+    "duration": 8,
+    "numberOfEmployees": 4,
+    "goal": 4,
+    "place": "Череповец (Вологодская область)",
+    "estimatedPayment": 165000
+  },
+  {
+    "id": "76-156",
+    "date": "2.23.2016",
+    "duration": 2,
+    "numberOfEmployees": 2,
+    "goal": 5,
+    "place": "Александров (Владимирская область)",
+    "estimatedPayment": 77000
+  },
+  {
+    "id": "76-157",
+    "date": "2.27.2016",
+    "duration": 8,
+    "numberOfEmployees": 8,
+    "goal": 2,
+    "place": "Новороссийск (Краснодарский край)",
+    "estimatedPayment": 336000
+  },
+  {
+    "id": "76-158",
+    "date": "2.27.2016",
+    "duration": 5,
+    "numberOfEmployees": 5,
+    "goal": 4,
+    "place": "Архипо-Осиповка (Краснодарский край)",
+    "estimatedPayment": 140000
+  },
+  {
+    "id": "76-159",
+    "date": "2.27.2016",
+    "duration": 20,
+    "numberOfEmployees": 6,
+    "goal": 1,
+    "place": "Юрьев-Польский (Владимирская область)",
+    "estimatedPayment": 663000
+  },
+  {
+    "id": "76-160",
+    "date": "3.1.2016",
+    "duration": 2,
+    "numberOfEmployees": 6,
+    "goal": 4,
+    "place": "Владимир (Владимирская область)",
+    "estimatedPayment": 68000
+  },
+  {
+    "id": "76-161",
+    "date": "3.4.2016",
+    "duration": 7,
+    "numberOfEmployees": 13,
+    "goal": 2,
+    "place": "Калязин (Тверская область)",
+    "estimatedPayment": 524000
+  },
+  {
+    "id": "76-162",
+    "date": "3.5.2016",
+    "duration": 3,
+    "numberOfEmployees": 14,
+    "goal": 1,
+    "place": "Тамань (Краснодарский край)",
+    "estimatedPayment": 294000
+  },
+  {
+    "id": "76-163",
+    "date": "3.6.2016",
+    "duration": 2,
+    "numberOfEmployees": 10,
+    "goal": 4,
+    "place": "Торжок (Тверская область)",
+    "estimatedPayment": 194000
+  },
+  {
+    "id": "76-164",
+    "date": "3.7.2016",
+    "duration": 6,
+    "numberOfEmployees": 9,
+    "goal": 3,
+    "place": "Выборг (Ленинградская область)",
+    "estimatedPayment": 363000
+  },
+  {
+    "id": "76-165",
+    "date": "3.8.2016",
+    "duration": 6,
+    "numberOfEmployees": 8,
+    "goal": 4,
+    "place": "Новороссийск (Краснодарский край)",
+    "estimatedPayment": 266000
+  },
+  {
+    "id": "76-166",
+    "date": "3.9.2016",
+    "duration": 3,
+    "numberOfEmployees": 3,
+    "goal": 6,
+    "place": "Владимир (Владимирская область)",
+    "estimatedPayment": 65000
+  },
+  {
+    "id": "76-167",
+    "date": "3.10.2016",
+    "duration": 12,
+    "numberOfEmployees": 6,
+    "goal": 2,
+    "place": "Касимов (Рязанская область)",
+    "estimatedPayment": 407000
+  },
+  {
+    "id": "76-168",
+    "date": "3.13.2016",
+    "duration": 15,
+    "numberOfEmployees": 12,
+    "goal": 3,
+    "place": "Вологда (Вологодская область)",
+    "estimatedPayment": 928000
+  },
+  {
+    "id": "76-169",
+    "date": "3.15.2016",
+    "duration": 4,
+    "numberOfEmployees": 13,
+    "goal": 3,
+    "place": "Великий Новгород (Новгородская область)",
+    "estimatedPayment": 282000
+  },
+  {
+    "id": "76-170",
+    "date": "3.16.2016",
+    "duration": 25,
+    "numberOfEmployees": 15,
+    "goal": 2,
+    "place": "Егорьевск (Московская область)",
+    "estimatedPayment": 1956000
+  },
+  {
+    "id": "76-171",
+    "date": "3.18.2016",
+    "duration": 4,
+    "numberOfEmployees": 7,
+    "goal": 4,
+    "place": "Серпухов (Московская область)",
+    "estimatedPayment": 184000
+  },
+  {
+    "id": "76-172",
+    "date": "3.19.2016",
+    "duration": 4,
+    "numberOfEmployees": 10,
+    "goal": 4,
+    "place": "Рязань (Рязанская область)",
+    "estimatedPayment": 225000
+  },
+  {
+    "id": "76-173",
+    "date": "3.19.2016",
+    "duration": 5,
+    "numberOfEmployees": 11,
+    "goal": 3,
+    "place": "Псков (Псковская область)",
+    "estimatedPayment": 329000
+  },
+  {
+    "id": "76-174",
+    "date": "3.19.2016",
+    "duration": 6,
+    "numberOfEmployees": 13,
+    "goal": 2,
+    "place": "Подольск (Московская область)",
+    "estimatedPayment": 391000
+  },
+  {
+    "id": "76-175",
+    "date": "3.19.2016",
+    "duration": 10,
+    "numberOfEmployees": 9,
+    "goal": 2,
+    "place": "Архангельск (Архангельская область)",
+    "estimatedPayment": 510000
+  },
+  {
+    "id": "76-176",
+    "date": "3.21.2016",
+    "duration": 1,
+    "numberOfEmployees": 3,
+    "goal": 6,
+    "place": "Тамань (Краснодарский край)",
+    "estimatedPayment": 100000
+  },
+  {
+    "id": "76-177",
+    "date": "3.21.2016",
+    "duration": 6,
+    "numberOfEmployees": 13,
+    "goal": 1,
+    "place": "Таруса (Калужская область)",
+    "estimatedPayment": 394000
+  },
+  {
+    "id": "76-178",
+    "date": "3.22.2016",
+    "duration": 7,
+    "numberOfEmployees": 6,
+    "goal": 2,
+    "place": "Осташков (Тверская область)",
+    "estimatedPayment": 276000
+  },
+  {
+    "id": "76-179",
+    "date": "3.24.2016",
+    "duration": 12,
+    "numberOfEmployees": 4,
+    "goal": 2,
+    "place": "Торжок (Тверская область)",
+    "estimatedPayment": 337000
+  },
+  {
+    "id": "76-180",
+    "date": "3.26.2016",
+    "duration": 4,
+    "numberOfEmployees": 3,
+    "goal": 6,
+    "place": "Липецк (Липецкая область)",
+    "estimatedPayment": 137000
+  },
+  {
+    "id": "76-181",
+    "date": "3.26.2016",
+    "duration": 12,
+    "numberOfEmployees": 6,
+    "goal": 2,
+    "place": "Луховицы (Московская область)",
+    "estimatedPayment": 440000
+  },
+  {
+    "id": "76-182",
+    "date": "3.26.2016",
+    "duration": 20,
+    "numberOfEmployees": 16,
+    "goal": 2,
+    "place": "Звенигород (Московская область)",
+    "estimatedPayment": 1653000
+  },
+  {
+    "id": "76-183",
+    "date": "3.26.2016",
+    "duration": 8,
+    "numberOfEmployees": 4,
+    "goal": 4,
+    "place": "Кириллов (Вологодская область)",
+    "estimatedPayment": 238000
+  },
+  {
+    "id": "76-184",
+    "date": "3.28.2016",
+    "duration": 7,
+    "numberOfEmployees": 10,
+    "goal": 2,
+    "place": "Москва (Московская область)",
+    "estimatedPayment": 411000
+  },
+  {
+    "id": "76-185",
+    "date": "3.28.2016",
+    "duration": 20,
+    "numberOfEmployees": 16,
+    "goal": 2,
+    "place": "Санкт-Петербург (Ленинградская область)",
+    "estimatedPayment": 1666000
+  },
+  {
+    "id": "76-186",
+    "date": "3.29.2016",
+    "duration": 7,
+    "numberOfEmployees": 9,
+    "goal": 4,
+    "place": "Звенигород (Московская область)",
+    "estimatedPayment": 370000
+  },
+  {
+    "id": "76-187",
+    "date": "3.31.2016",
+    "duration": 4,
+    "numberOfEmployees": 4,
+    "goal": 6,
+    "place": "Рязань (Рязанская область)",
+    "estimatedPayment": 133000
+  },
+  {
+    "id": "76-188",
+    "date": "4.2.2016",
+    "duration": 10,
+    "numberOfEmployees": 7,
+    "goal": 1,
+    "place": "Тверь (Тверская область)",
+    "estimatedPayment": 390000
+  },
+  {
+    "id": "76-189",
+    "date": "4.2.2016",
+    "duration": 20,
+    "numberOfEmployees": 8,
+    "goal": 2,
+    "place": "Покров (Владимирская область)",
+    "estimatedPayment": 801000
+  },
+  {
+    "id": "76-190",
+    "date": "4.3.2016",
+    "duration": 8,
+    "numberOfEmployees": 10,
+    "goal": 2,
+    "place": "Тверь (Тверская область)",
+    "estimatedPayment": 422000
+  },
+  {
+    "id": "76-191",
+    "date": "4.3.2016",
+    "duration": 6,
+    "numberOfEmployees": 7,
+    "goal": 4,
+    "place": "Рязань (Рязанская область)",
+    "estimatedPayment": 238000
+  },
+  {
+    "id": "76-192",
+    "date": "4.4.2016",
+    "duration": 10,
+    "numberOfEmployees": 10,
+    "goal": 3,
+    "place": "Тамань (Краснодарский край)",
+    "estimatedPayment": 587000
+  },
+  {
+    "id": "76-193",
+    "date": "4.5.2016",
+    "duration": 5,
+    "numberOfEmployees": 10,
+    "goal": 1,
+    "place": "Ярославль (Ярославская область)",
+    "estimatedPayment": 307000
+  },
+  {
+    "id": "76-194",
+    "date": "4.7.2016",
+    "duration": 12,
+    "numberOfEmployees": 11,
+    "goal": 2,
+    "place": "Кисловодск (Ставропольский край)",
+    "estimatedPayment": 719000
+  },
+  {
+    "id": "76-195",
+    "date": "4.8.2016",
+    "duration": 15,
+    "numberOfEmployees": 13,
+    "goal": 2,
+    "place": "Кисловодск (Ставропольский край)",
+    "estimatedPayment": 1059000
+  },
+  {
+    "id": "76-196",
+    "date": "4.11.2016",
+    "duration": 20,
+    "numberOfEmployees": 8,
+    "goal": 1,
+    "place": "Петергоф (Ленинградская область)",
+    "estimatedPayment": 897000
+  },
+  {
+    "id": "76-197",
+    "date": "4.12.2016",
+    "duration": 20,
+    "numberOfEmployees": 4,
+    "goal": 1,
+    "place": "Изборск (Псковская область)",
+    "estimatedPayment": 434000
+  },
+  {
+    "id": "76-198",
+    "date": "4.14.2016",
+    "duration": 8,
+    "numberOfEmployees": 14,
+    "goal": 2,
+    "place": "Сергиев Посад (Московская область)",
+    "estimatedPayment": 600000
+  },
+  {
+    "id": "76-199",
+    "date": "4.15.2016",
+    "duration": 4,
+    "numberOfEmployees": 9,
+    "goal": 4,
+    "place": "Липецк (Липецкая область)",
+    "estimatedPayment": 264000
+  },
+  {
+    "id": "76-200",
+    "date": "4.16.2016",
+    "duration": 6,
+    "numberOfEmployees": 15,
+    "goal": 3,
+    "place": "Клин (Московская область)",
+    "estimatedPayment": 511000
+  },
+  {
+    "id": "76-201",
+    "date": "4.16.2016",
+    "duration": 12,
+    "numberOfEmployees": 11,
+    "goal": 2,
+    "place": "Гатчина (Ленинградская область)",
+    "estimatedPayment": 734000
+  },
+  {
+    "id": "76-202",
+    "date": "4.18.2016",
+    "duration": 20,
+    "numberOfEmployees": 10,
+    "goal": 1,
+    "place": "Верея (Московская область)",
+    "estimatedPayment": 1047000
+  },
+  {
+    "id": "76-203",
+    "date": "4.19.2016",
+    "duration": 5,
+    "numberOfEmployees": 5,
+    "goal": 1,
+    "place": "Егорьевск (Московская область)",
+    "estimatedPayment": 140000
+  },
+  {
+    "id": "76-204",
+    "date": "4.20.2016",
+    "duration": 30,
+    "numberOfEmployees": 5,
+    "goal": 3,
+    "place": "Дмитров (Московская область)",
+    "estimatedPayment": 849000
+  },
+  {
+    "id": "76-205",
+    "date": "4.22.2016",
+    "duration": 18,
+    "numberOfEmployees": 11,
+    "goal": 1,
+    "place": "Коломна (Московская область)",
+    "estimatedPayment": 1051000
+  },
+  {
+    "id": "76-206",
+    "date": "4.23.2016",
+    "duration": 10,
+    "numberOfEmployees": 7,
+    "goal": 2,
+    "place": "Рыбинск (Ярославская область)",
+    "estimatedPayment": 409000
+  },
+  {
+    "id": "76-207",
+    "date": "4.24.2016",
+    "duration": 12,
+    "numberOfEmployees": 16,
+    "goal": 2,
+    "place": "Геленджик (Краснодарский край)",
+    "estimatedPayment": 1043000
+  },
+  {
+    "id": "76-208",
+    "date": "4.24.2016",
+    "duration": 12,
+    "numberOfEmployees": 5,
+    "goal": 2,
+    "place": "Кронштадт (Ленинградская область)",
+    "estimatedPayment": 380000
+  },
+  {
+    "id": "76-209",
+    "date": "4.25.2016",
+    "duration": 7,
+    "numberOfEmployees": 16,
+    "goal": 2,
+    "place": "Звенигород (Московская область)",
+    "estimatedPayment": 609000
+  },
+  {
+    "id": "76-210",
+    "date": "4.25.2016",
+    "duration": 4,
+    "numberOfEmployees": 10,
+    "goal": 4,
+    "place": "Муром (Владимирская область)",
+    "estimatedPayment": 293000
+  },
+  {
+    "id": "76-211",
+    "date": "4.25.2016",
+    "duration": 8,
+    "numberOfEmployees": 9,
+    "goal": 2,
+    "place": "Калининград (Калининградская область)",
+    "estimatedPayment": 429000
+  },
+  {
+    "id": "76-212",
+    "date": "4.26.2016",
+    "duration": 15,
+    "numberOfEmployees": 3,
+    "goal": 1,
+    "place": "Череповец (Вологодская область)",
+    "estimatedPayment": 237000
+  },
+  {
+    "id": "76-213",
+    "date": "4.26.2016",
+    "duration": 7,
+    "numberOfEmployees": 4,
+    "goal": 4,
+    "place": "Гороховец (Владимирская область)",
+    "estimatedPayment": 155000
+  },
+  {
+    "id": "76-214",
+    "date": "4.26.2016",
+    "duration": 18,
+    "numberOfEmployees": 9,
+    "goal": 2,
+    "place": "Иваново (Ивановская область)",
+    "estimatedPayment": 849000
+  },
+  {
+    "id": "76-215",
+    "date": "4.28.2016",
+    "duration": 10,
+    "numberOfEmployees": 8,
+    "goal": 3,
+    "place": "Муром (Владимирская область)",
+    "estimatedPayment": 485000
+  },
+  {
+    "id": "76-216",
+    "date": "4.28.2016",
+    "duration": 30,
+    "numberOfEmployees": 7,
+    "goal": 3,
+    "place": "Краснодар (Краснодарский край)",
+    "estimatedPayment": 1111000
+  },
+  {
+    "id": "76-217",
+    "date": "4.30.2016",
+    "duration": 6,
+    "numberOfEmployees": 14,
+    "goal": 2,
+    "place": "Липецк (Липецкая область)",
+    "estimatedPayment": 455000
+  },
+  {
+    "id": "76-218",
+    "date": "5.1.2016",
+    "duration": 24,
+    "numberOfEmployees": 7,
+    "goal": 3,
+    "place": "Великий Устюг (Вологодская область)",
+    "estimatedPayment": 936000
+  },
+  {
+    "id": "76-219",
+    "date": "5.4.2016",
+    "duration": 4,
+    "numberOfEmployees": 4,
+    "goal": 1,
+    "place": "Юрьев-Польский (Владимирская область)",
+    "estimatedPayment": 104000
+  },
+  {
+    "id": "76-220",
+    "date": "5.4.2016",
+    "duration": 9,
+    "numberOfEmployees": 14,
+    "goal": 2,
+    "place": "Изборск (Псковская область)",
+    "estimatedPayment": 663000
+  },
+  {
+    "id": "76-221",
+    "date": "5.5.2016",
+    "duration": 5,
+    "numberOfEmployees": 14,
+    "goal": 4,
+    "place": "Плес (Ивановская область)",
+    "estimatedPayment": 402000
+  },
+  {
+    "id": "76-222",
+    "date": "5.5.2016",
+    "duration": 10,
+    "numberOfEmployees": 4,
+    "goal": 1,
+    "place": "Санкт-Петербург (Ленинградская область)",
+    "estimatedPayment": 259000
+  },
+  {
+    "id": "76-223",
+    "date": "5.8.2016",
+    "duration": 12,
+    "numberOfEmployees": 9,
+    "goal": 2,
+    "place": "Таруса (Калужская область)",
+    "estimatedPayment": 612000
+  },
+  {
+    "id": "76-224",
+    "date": "5.9.2016",
+    "duration": 5,
+    "numberOfEmployees": 8,
+    "goal": 1,
+    "place": "Калининград (Калининградская область)",
+    "estimatedPayment": 236000
+  },
+  {
+    "id": "76-225",
+    "date": "5.9.2016",
+    "duration": 20,
+    "numberOfEmployees": 12,
+    "goal": 1,
+    "place": "Пушкин (Ленинградская область)",
+    "estimatedPayment": 1253000
+  },
+  {
+    "id": "76-226",
+    "date": "5.11.2016",
+    "duration": 6,
+    "numberOfEmployees": 7,
+    "goal": 2,
+    "place": "Великий Новгород (Новгородская область)",
+    "estimatedPayment": 309000
+  },
+  {
+    "id": "76-227",
+    "date": "5.11.2016",
+    "duration": 12,
+    "numberOfEmployees": 15,
+    "goal": 2,
+    "place": "Ростов Великий (Ярославская область)",
+    "estimatedPayment": 995000
+  },
+  {
+    "id": "76-228",
+    "date": "5.14.2016",
+    "duration": 12,
+    "numberOfEmployees": 14,
+    "goal": 2,
+    "place": "Мытищи (Московская область)",
+    "estimatedPayment": 918000
+  },
+  {
+    "id": "76-229",
+    "date": "5.16.2016",
+    "duration": 5,
+    "numberOfEmployees": 5,
+    "goal": 4,
+    "place": "Торжок (Тверская область)",
+    "estimatedPayment": 194000
+  },
+  {
+    "id": "76-230",
+    "date": "5.19.2016",
+    "duration": 6,
+    "numberOfEmployees": 12,
+    "goal": 2,
+    "place": "Адлер (Краснодарский край)",
+    "estimatedPayment": 375000
+  },
+  {
+    "id": "76-231",
+    "date": "5.19.2016",
+    "duration": 30,
+    "numberOfEmployees": 13,
+    "goal": 3,
+    "place": "Дубна (Московская область)",
+    "estimatedPayment": 1967000
+  },
+  {
+    "id": "76-232",
+    "date": "5.24.2016",
+    "duration": 5,
+    "numberOfEmployees": 3,
+    "goal": 1,
+    "place": "Рязань (Рязанская область)",
+    "estimatedPayment": 167000
+  },
+  {
+    "id": "76-233",
+    "date": "5.25.2016",
+    "duration": 9,
+    "numberOfEmployees": 11,
+    "goal": 2,
+    "place": "Козельск (Калужская область)",
+    "estimatedPayment": 501000
+  },
+  {
+    "id": "76-234",
+    "date": "5.25.2016",
+    "duration": 6,
+    "numberOfEmployees": 11,
+    "goal": 4,
+    "place": "Анапа (Краснодарский край)",
+    "estimatedPayment": 410000
+  },
+  {
+    "id": "76-235",
+    "date": "5.25.2016",
+    "duration": 2,
+    "numberOfEmployees": 2,
+    "goal": 5,
+    "place": "Елец (Липецкая область)",
+    "estimatedPayment": 94000
+  },
+  {
+    "id": "76-236",
+    "date": "5.28.2016",
+    "duration": 24,
+    "numberOfEmployees": 7,
+    "goal": 3,
+    "place": "Выборг (Ленинградская область)",
+    "estimatedPayment": 887000
+  },
+  {
+    "id": "76-237",
+    "date": "5.30.2016",
+    "duration": 10,
+    "numberOfEmployees": 15,
+    "goal": 3,
+    "place": "Плес (Ивановская область)",
+    "estimatedPayment": 842000
+  },
+  {
+    "id": "76-238",
+    "date": "5.31.2016",
+    "duration": 5,
+    "numberOfEmployees": 6,
+    "goal": 4,
+    "place": "Подольск (Московская область)",
+    "estimatedPayment": 219000
+  },
+  {
+    "id": "76-239",
+    "date": "6.3.2016",
+    "duration": 25,
+    "numberOfEmployees": 13,
+    "goal": 2,
+    "place": "Петергоф (Ленинградская область)",
+    "estimatedPayment": 1708000
+  },
+  {
+    "id": "76-240",
+    "date": "6.4.2016",
+    "duration": 4,
+    "numberOfEmployees": 4,
+    "goal": 4,
+    "place": "Рязань (Рязанская область)",
+    "estimatedPayment": 83000
+  },
+  {
+    "id": "76-241",
+    "date": "6.8.2016",
+    "duration": 25,
+    "numberOfEmployees": 14,
+    "goal": 1,
+    "place": "Кронштадт (Ленинградская область)",
+    "estimatedPayment": 1832000
+  },
+  {
+    "id": "76-242",
+    "date": "6.9.2016",
+    "duration": 12,
+    "numberOfEmployees": 12,
+    "goal": 1,
+    "place": "Можайск (Московская область)",
+    "estimatedPayment": 766000
+  },
+  {
+    "id": "76-243",
+    "date": "6.9.2016",
+    "duration": 15,
+    "numberOfEmployees": 5,
+    "goal": 3,
+    "place": "Клин (Московская область)",
+    "estimatedPayment": 426000
+  },
+  {
+    "id": "76-244",
+    "date": "6.12.2016",
+    "duration": 2,
+    "numberOfEmployees": 10,
+    "goal": 1,
+    "place": "Зарайск (Московская область)",
+    "estimatedPayment": 138000
+  },
+  {
+    "id": "76-245",
+    "date": "6.12.2016",
+    "duration": 5,
+    "numberOfEmployees": 11,
+    "goal": 4,
+    "place": "Тотьма (Вологодская область)",
+    "estimatedPayment": 321000
+  },
+  {
+    "id": "76-246",
+    "date": "6.12.2016",
+    "duration": 10,
+    "numberOfEmployees": 8,
+    "goal": 2,
+    "place": "Тотьма (Вологодская область)",
+    "estimatedPayment": 404000
+  },
+  {
+    "id": "76-247",
+    "date": "6.13.2016",
+    "duration": 8,
+    "numberOfEmployees": 13,
+    "goal": 2,
+    "place": "Ярославль (Ярославская область)",
+    "estimatedPayment": 543000
+  },
+  {
+    "id": "76-248",
+    "date": "6.13.2016",
+    "duration": 12,
+    "numberOfEmployees": 5,
+    "goal": 1,
+    "place": "Псков (Псковская область)",
+    "estimatedPayment": 397000
+  },
+  {
+    "id": "76-249",
+    "date": "6.14.2016",
+    "duration": 6,
+    "numberOfEmployees": 4,
+    "goal": 1,
+    "place": "Кириллов (Вологодская область)",
+    "estimatedPayment": 152000
+  },
+  {
+    "id": "76-250",
+    "date": "6.17.2016",
+    "duration": 4,
+    "numberOfEmployees": 6,
+    "goal": 1,
+    "place": "Козельск (Калужская область)",
+    "estimatedPayment": 121000
+  },
+  {
+    "id": "76-251",
+    "date": "6.17.2016",
+    "duration": 8,
+    "numberOfEmployees": 10,
+    "goal": 3,
+    "place": "Санкт-Петербург (Ленинградская область)",
+    "estimatedPayment": 401000
+  },
+  {
+    "id": "76-252",
+    "date": "6.17.2016",
+    "duration": 25,
+    "numberOfEmployees": 6,
+    "goal": 2,
+    "place": "Александров (Владимирская область)",
+    "estimatedPayment": 774000
+  },
+  {
+    "id": "76-253",
+    "date": "6.18.2016",
+    "duration": 6,
+    "numberOfEmployees": 10,
+    "goal": 2,
+    "place": "Тутаев (Ярославская область)",
+    "estimatedPayment": 382000
+  },
+  {
+    "id": "76-254",
+    "date": "6.19.2016",
+    "duration": 4,
+    "numberOfEmployees": 9,
+    "goal": 4,
+    "place": "Новороссийск (Краснодарский край)",
+    "estimatedPayment": 264000
+  },
+  {
+    "id": "76-255",
+    "date": "6.20.2016",
+    "duration": 8,
+    "numberOfEmployees": 7,
+    "goal": 2,
+    "place": "Ейск (Краснодарский край)",
+    "estimatedPayment": 327000
+  },
+  {
+    "id": "76-256",
+    "date": "6.21.2016",
+    "duration": 9,
+    "numberOfEmployees": 15,
+    "goal": 2,
+    "place": "Таруса (Калужская область)",
+    "estimatedPayment": 695000
+  },
+  {
+    "id": "76-257",
+    "date": "6.23.2016",
+    "duration": 6,
+    "numberOfEmployees": 9,
+    "goal": 2,
+    "place": "Сергиев Посад (Московская область)",
+    "estimatedPayment": 295000
+  },
+  {
+    "id": "76-258",
+    "date": "6.24.2016",
+    "duration": 1,
+    "numberOfEmployees": 5,
+    "goal": 1,
+    "place": "Серпухов (Московская область)",
+    "estimatedPayment": 120000
+  },
+  {
+    "id": "76-259",
+    "date": "6.24.2016",
+    "duration": 9,
+    "numberOfEmployees": 13,
+    "goal": 2,
+    "place": "Подольск (Московская область)",
+    "estimatedPayment": 642000
+  },
+  {
+    "id": "76-260",
+    "date": "6.24.2016",
+    "duration": 10,
+    "numberOfEmployees": 10,
+    "goal": 2,
+    "place": "Соловки (Архангельская область)",
+    "estimatedPayment": 511000
+  },
+  {
+    "id": "76-261",
+    "date": "6.26.2016",
+    "duration": 6,
+    "numberOfEmployees": 8,
+    "goal": 4,
+    "place": "Вологда (Вологодская область)",
+    "estimatedPayment": 256000
+  },
+  {
+    "id": "76-262",
+    "date": "6.30.2016",
+    "duration": 10,
+    "numberOfEmployees": 14,
+    "goal": 2,
+    "place": "Покров (Владимирская область)",
+    "estimatedPayment": 719000
+  },
+  {
+    "id": "76-263",
+    "date": "7.5.2016",
+    "duration": 6,
+    "numberOfEmployees": 10,
+    "goal": 4,
+    "place": "Липецк (Липецкая область)",
+    "estimatedPayment": 372000
+  },
+  {
+    "id": "76-264",
+    "date": "7.8.2016",
+    "duration": 8,
+    "numberOfEmployees": 12,
+    "goal": 1,
+    "place": "Зарайск (Московская область)",
+    "estimatedPayment": 558000
+  },
+  {
+    "id": "76-265",
+    "date": "7.9.2016",
+    "duration": 8,
+    "numberOfEmployees": 10,
+    "goal": 2,
+    "place": "Дубна (Московская область)",
+    "estimatedPayment": 493000
+  },
+  {
+    "id": "76-266",
+    "date": "7.10.2016",
+    "duration": 9,
+    "numberOfEmployees": 8,
+    "goal": 2,
+    "place": "Адлер (Краснодарский край)",
+    "estimatedPayment": 444000
+  },
+  {
+    "id": "76-267",
+    "date": "7.10.2016",
+    "duration": 10,
+    "numberOfEmployees": 13,
+    "goal": 2,
+    "place": "Козельск (Калужская область)",
+    "estimatedPayment": 721000
+  },
+  {
+    "id": "76-268",
+    "date": "7.13.2016",
+    "duration": 4,
+    "numberOfEmployees": 4,
+    "goal": 4,
+    "place": "Боровск (Калужская область)",
+    "estimatedPayment": 114000
+  },
+  {
+    "id": "76-269",
+    "date": "7.14.2016",
+    "duration": 4,
+    "numberOfEmployees": 5,
+    "goal": 4,
+    "place": "Переславль-Залесский (Ярославская область)",
+    "estimatedPayment": 138000
+  },
+  {
+    "id": "76-270",
+    "date": "7.15.2016",
+    "duration": 1,
+    "numberOfEmployees": 6,
+    "goal": 4,
+    "place": "Псков (Псковская область)",
+    "estimatedPayment": 116000
+  },
+  {
+    "id": "76-271",
+    "date": "7.16.2016",
+    "duration": 7,
+    "numberOfEmployees": 9,
+    "goal": 4,
+    "place": "Егорьевск (Московская область)",
+    "estimatedPayment": 393000
+  },
+  {
+    "id": "76-272",
+    "date": "7.20.2016",
+    "duration": 1,
+    "numberOfEmployees": 2,
+    "goal": 5,
+    "place": "Липецк (Липецкая область)",
+    "estimatedPayment": 38000
+  },
+  {
+    "id": "76-273",
+    "date": "7.25.2016",
+    "duration": 5,
+    "numberOfEmployees": 11,
+    "goal": 3,
+    "place": "Звенигород (Московская область)",
+    "estimatedPayment": 311000
+  },
+  {
+    "id": "76-274",
+    "date": "7.25.2016",
+    "duration": 1,
+    "numberOfEmployees": 3,
+    "goal": 5,
+    "place": "Архангельск (Архангельская область)",
+    "estimatedPayment": 57000
+  },
+  {
+    "id": "76-275",
+    "date": "7.25.2016",
+    "duration": 8,
+    "numberOfEmployees": 7,
+    "goal": 4,
+    "place": "Калининград (Калининградская область)",
+    "estimatedPayment": 370000
+  },
+  {
+    "id": "76-276",
+    "date": "7.28.2016",
+    "duration": 9,
+    "numberOfEmployees": 8,
+    "goal": 2,
+    "place": "Александров (Владимирская область)",
+    "estimatedPayment": 394000
+  },
+  {
+    "id": "76-277",
+    "date": "7.29.2016",
+    "duration": 6,
+    "numberOfEmployees": 9,
+    "goal": 2,
+    "place": "Суздаль (Владимирская область)",
+    "estimatedPayment": 334000
+  },
+  {
+    "id": "76-278",
+    "date": "7.29.2016",
+    "duration": 6,
+    "numberOfEmployees": 4,
+    "goal": 1,
+    "place": "Светлогорск (Калининградская область)",
+    "estimatedPayment": 168000
+  },
+  {
+    "id": "76-279",
+    "date": "7.29.2016",
+    "duration": 4,
+    "numberOfEmployees": 6,
+    "goal": 4,
+    "place": "Суздаль (Владимирская область)",
+    "estimatedPayment": 164000
+  },
+  {
+    "id": "76-280",
+    "date": "7.31.2016",
+    "duration": 6,
+    "numberOfEmployees": 12,
+    "goal": 4,
+    "place": "Покров (Владимирская область)",
+    "estimatedPayment": 404000
+  },
+  {
+    "id": "76-281",
+    "date": "8.1.2016",
+    "duration": 6,
+    "numberOfEmployees": 7,
+    "goal": 2,
+    "place": "Пятигорск (Ставропольский край)",
+    "estimatedPayment": 254000
+  },
+  {
+    "id": "76-282",
+    "date": "8.1.2016",
+    "duration": 6,
+    "numberOfEmployees": 10,
+    "goal": 4,
+    "place": "Светлогорск (Калининградская область)",
+    "estimatedPayment": 332000
+  },
+  {
+    "id": "76-283",
+    "date": "8.1.2016",
+    "duration": 15,
+    "numberOfEmployees": 12,
+    "goal": 1,
+    "place": "Мышкин (Ярославская область)",
+    "estimatedPayment": 931000
+  },
+  {
+    "id": "76-284",
+    "date": "8.1.2016",
+    "duration": 20,
+    "numberOfEmployees": 6,
+    "goal": 1,
+    "place": "Череповец (Вологодская область)",
+    "estimatedPayment": 654000
+  },
+  {
+    "id": "76-285",
+    "date": "8.2.2016",
+    "duration": 12,
+    "numberOfEmployees": 14,
+    "goal": 3,
+    "place": "Таруса (Калужская область)",
+    "estimatedPayment": 903000
+  },
+  {
+    "id": "76-286",
+    "date": "8.2.2016",
+    "duration": 15,
+    "numberOfEmployees": 16,
+    "goal": 2,
+    "place": "Тамань (Краснодарский край)",
+    "estimatedPayment": 1261000
+  },
+  {
+    "id": "76-287",
+    "date": "8.3.2016",
+    "duration": 7,
+    "numberOfEmployees": 5,
+    "goal": 4,
+    "place": "Петергоф (Ленинградская область)",
+    "estimatedPayment": 268000
+  },
+  {
+    "id": "76-288",
+    "date": "8.4.2016",
+    "duration": 6,
+    "numberOfEmployees": 12,
+    "goal": 3,
+    "place": "Сергиев Посад (Московская область)",
+    "estimatedPayment": 419000
+  },
+  {
+    "id": "76-289",
+    "date": "8.5.2016",
+    "duration": 6,
+    "numberOfEmployees": 7,
+    "goal": 1,
+    "place": "Санкт-Петербург (Ленинградская область)",
+    "estimatedPayment": 279000
+  },
+  {
+    "id": "76-290",
+    "date": "8.5.2016",
+    "duration": 25,
+    "numberOfEmployees": 6,
+    "goal": 1,
+    "place": "Клин (Московская область)",
+    "estimatedPayment": 775000
+  },
+  {
+    "id": "76-291",
+    "date": "8.6.2016",
+    "duration": 4,
+    "numberOfEmployees": 14,
+    "goal": 2,
+    "place": "Можайск (Московская область)",
+    "estimatedPayment": 313000
+  },
+  {
+    "id": "76-292",
+    "date": "8.9.2016",
+    "duration": 1,
+    "numberOfEmployees": 12,
+    "goal": 4,
+    "place": "Петергоф (Ленинградская область)",
+    "estimatedPayment": 113000
+  },
+  {
+    "id": "76-293",
+    "date": "8.10.2016",
+    "duration": 5,
+    "numberOfEmployees": 6,
+    "goal": 4,
+    "place": "Калининград (Калининградская область)",
+    "estimatedPayment": 246000
+  },
+  {
+    "id": "76-294",
+    "date": "8.11.2016",
+    "duration": 4,
+    "numberOfEmployees": 6,
+    "goal": 4,
+    "place": "Козельск (Калужская область)",
+    "estimatedPayment": 163000
+  },
+  {
+    "id": "76-295",
+    "date": "8.12.2016",
+    "duration": 8,
+    "numberOfEmployees": 14,
+    "goal": 2,
+    "place": "Липецк (Липецкая область)",
+    "estimatedPayment": 634000
+  },
+  {
+    "id": "76-296",
+    "date": "8.12.2016",
+    "duration": 10,
+    "numberOfEmployees": 10,
+    "goal": 2,
+    "place": "Рязань (Рязанская область)",
+    "estimatedPayment": 560000
+  },
+  {
+    "id": "76-297",
+    "date": "8.14.2016",
+    "duration": 6,
+    "numberOfEmployees": 5,
+    "goal": 4,
+    "place": "Адлер (Краснодарский край)",
+    "estimatedPayment": 245000
+  }
+]

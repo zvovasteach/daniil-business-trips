@@ -1,0 +1,91 @@
+@use "ds-system/ds" as *;
+
+@layer scaffolding {
+  table {
+    contain: strict;
+    border-collapse: collapse;
+  }
+
+  *,
+  *::before,
+  *::after {
+    box-sizing: border-box;
+  }
+
+  :root {
+    --doc-height: 100%;
+  }
+
+  html,
+  body {
+    scroll-behavior: smooth;
+    scrollbar-gutter: stable;
+
+    /* fallback for Js load */
+    height: 100%;
+    margin: 0;
+    padding: 0;
+
+    font-size: 16px;
+
+
+    background-color: $bg-color;
+
+    @media (prefers-color-scheme: dark) {
+      background-color: var(--p-surface-950);
+    }
+  }
+
+  /* stylelint-disable-next-line selector-max-id */
+  #app {
+    height: 100%;
+  }
+
+  body {
+    padding-bottom: env(safe-area-inset-bottom);
+
+    font-family: Poppins, "Noto Sans HK", "Noto Sans JP", sans-serif;
+    font-weight: 400;
+    color: var(--p-content-color);
+
+    object-fit: scale-down;
+  }
+
+  a {
+    color: inherit;
+    text-decoration: none;
+  }
+
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+
+  button {
+    cursor: pointer;
+    color: inherit;
+    background-color: inherit;
+  }
+
+  //AUXILIARY
+  input:-webkit-autofill,
+  input:-webkit-autofill:hover,
+  input:-webkit-autofill:focus textarea:-webkit-autofill,
+  textarea:-webkit-autofill:hover textarea:-webkit-autofill:focus,
+  select:-webkit-autofill,
+  select:-webkit-autofill:hover,
+  select:-webkit-autofill:focus {
+    background-clip: text;
+    transition: background-color 600000s 0s, color 600000s 0s;
+  }
+
+  input[data-autocompleted] {
+    /* stylelint-disable-next-line declaration-no-important -- Redefinition standard browser rule */
+    background-color: transparent !important;
+  }
+
+  *, {
+    /* stylelint-disable-next-line declaration-no-important -- Redefinition standard browser rule */
+    -webkit-tap-highlight-color: transparent !important;
+  }
+}

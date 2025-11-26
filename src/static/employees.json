@@ -1,0 +1,546 @@
+[
+  {
+    "surname": "Абрамов",
+    "jobTitle": 7,
+    "id": 17,
+    "sex": "м",
+    "birthday": "7.5.1959",
+    "salary": 22000
+  },
+  {
+    "surname": "Абрикосова",
+    "jobTitle": 3,
+    "id": 699,
+    "sex": "ж",
+    "birthday": "11.4.1949",
+    "salary": 58000
+  },
+  {
+    "surname": "Александров",
+    "jobTitle": 7,
+    "id": 242,
+    "sex": "м",
+    "birthday": "4.29.1954",
+    "salary": 28000
+  },
+  {
+    "surname": "Андреев",
+    "jobTitle": 7,
+    "id": 954,
+    "sex": "м",
+    "birthday": "6.2.1972",
+    "salary": 46000
+  },
+  {
+    "surname": "Антонов",
+    "jobTitle": 5,
+    "id": 833,
+    "sex": "м",
+    "birthday": "3.14.1948",
+    "salary": 60120
+  },
+  {
+    "surname": "Антонова",
+    "jobTitle": 3,
+    "id": 823,
+    "sex": "ж",
+    "birthday": "5.19.1979",
+    "salary": 74000
+  },
+  {
+    "surname": "Барсуков",
+    "jobTitle": 4,
+    "id": 78,
+    "sex": "м",
+    "birthday": "4.14.1953",
+    "salary": 40000
+  },
+  {
+    "surname": "Бахарев",
+    "jobTitle": 8,
+    "id": 581,
+    "sex": "м",
+    "birthday": "2.6.1963",
+    "salary": 40000
+  },
+  {
+    "surname": "Бородкин",
+    "jobTitle": 8,
+    "id": 89,
+    "sex": "м",
+    "birthday": "2.19.1962",
+    "salary": 40000
+  },
+  {
+    "surname": "Верховский",
+    "jobTitle": 8,
+    "id": 52,
+    "sex": "м",
+    "birthday": "5.27.1956",
+    "salary": 40000
+  },
+  {
+    "surname": "Вершинин",
+    "jobTitle": 4,
+    "id": 209,
+    "sex": "м",
+    "birthday": "7.18.1948",
+    "salary": 46000
+  },
+  {
+    "surname": "Воронов",
+    "jobTitle": 5,
+    "id": 388,
+    "sex": "м",
+    "birthday": "7.30.1970",
+    "salary": 42000
+  },
+  {
+    "surname": "Галкин",
+    "jobTitle": 8,
+    "id": 146,
+    "sex": "м",
+    "birthday": "6.27.1955",
+    "salary": 40000
+  },
+  {
+    "surname": "Голубкова",
+    "jobTitle": 4,
+    "id": 372,
+    "sex": "ж",
+    "birthday": "4.25.1964",
+    "salary": 42000
+  },
+  {
+    "surname": "Григорьев",
+    "jobTitle": 7,
+    "id": 406,
+    "sex": "м",
+    "birthday": "11.15.1950",
+    "salary": 52000
+  },
+  {
+    "surname": "Гришин",
+    "jobTitle": 7,
+    "id": 284,
+    "sex": "м",
+    "birthday": "4.17.1948",
+    "salary": 38000
+  },
+  {
+    "surname": "Грушин",
+    "jobTitle": 4,
+    "id": 377,
+    "sex": "м",
+    "birthday": "6.7.1967",
+    "salary": 40000
+  },
+  {
+    "surname": "Гусев",
+    "jobTitle": 7,
+    "id": 908,
+    "sex": "м",
+    "birthday": "8.30.1967",
+    "salary": 46000
+  },
+  {
+    "surname": "Давиденко",
+    "jobTitle": 6,
+    "id": 887,
+    "sex": "м",
+    "birthday": "10.29.1957",
+    "salary": 60000
+  },
+  {
+    "surname": "Дмитриев",
+    "jobTitle": 3,
+    "id": 732,
+    "sex": "м",
+    "birthday": "10.18.1947",
+    "salary": 92000
+  },
+  {
+    "surname": "Ермаков",
+    "jobTitle": 5,
+    "id": 405,
+    "sex": "м",
+    "birthday": "7.14.1952",
+    "salary": 32000
+  },
+  {
+    "surname": "Ермилов",
+    "jobTitle": 4,
+    "id": 136,
+    "sex": "м",
+    "birthday": "2.1.1958",
+    "salary": 40000
+  },
+  {
+    "surname": "Ершиков",
+    "jobTitle": 1,
+    "id": 927,
+    "sex": "м",
+    "birthday": "11.8.1978",
+    "salary": 201000
+  },
+  {
+    "surname": "Кирсанов",
+    "jobTitle": 7,
+    "id": 381,
+    "sex": "м",
+    "birthday": "11.6.1947",
+    "salary": 62000
+  },
+  {
+    "surname": "Клоков",
+    "jobTitle": 6,
+    "id": 291,
+    "sex": "м",
+    "birthday": "4.19.1956",
+    "salary": 34000
+  },
+  {
+    "surname": "Колобов",
+    "jobTitle": 7,
+    "id": 622,
+    "sex": "м",
+    "birthday": "12.1.1969",
+    "salary": 68000
+  },
+  {
+    "surname": "Котов",
+    "jobTitle": 7,
+    "id": 212,
+    "sex": "м",
+    "birthday": "6.16.1952",
+    "salary": 46000
+  },
+  {
+    "surname": "Кошкин",
+    "jobTitle": 4,
+    "id": 673,
+    "sex": "м",
+    "birthday": "11.23.1961",
+    "salary": 46000
+  },
+  {
+    "surname": "Кротова",
+    "jobTitle": 7,
+    "id": 768,
+    "sex": "м",
+    "birthday": "1.3.1981",
+    "salary": 46000
+  },
+  {
+    "surname": "Крупинов",
+    "jobTitle": 4,
+    "id": 947,
+    "sex": "м",
+    "birthday": "6.24.1968",
+    "salary": 48000
+  },
+  {
+    "surname": "Кубарев",
+    "jobTitle": 5,
+    "id": 939,
+    "sex": "м",
+    "birthday": "9.22.1958",
+    "salary": 20180
+  },
+  {
+    "surname": "Кудрявцев",
+    "jobTitle": 5,
+    "id": 337,
+    "sex": "м",
+    "birthday": "10.18.1959",
+    "salary": 68000
+  },
+  {
+    "surname": "Кутяев",
+    "jobTitle": 4,
+    "id": 675,
+    "sex": "м",
+    "birthday": "11.16.1949",
+    "salary": 38000
+  },
+  {
+    "surname": "Маркова",
+    "jobTitle": 5,
+    "id": 243,
+    "sex": "ж",
+    "birthday": "9.12.1958",
+    "salary": 20000
+  },
+  {
+    "surname": "Медведев",
+    "jobTitle": 4,
+    "id": 283,
+    "sex": "м",
+    "birthday": "8.31.1974",
+    "salary": 62000
+  },
+  {
+    "surname": "Медников",
+    "jobTitle": 2,
+    "id": 473,
+    "sex": "м",
+    "birthday": "10.18.1985",
+    "salary": 120000
+  },
+  {
+    "surname": "Михайленко",
+    "jobTitle": 6,
+    "id": 402,
+    "sex": "м",
+    "birthday": "8.15.1954",
+    "salary": 52000
+  },
+  {
+    "surname": "Михайлов",
+    "jobTitle": 6,
+    "id": 940,
+    "sex": "м",
+    "birthday": "6.6.1962",
+    "salary": 54000
+  },
+  {
+    "surname": "Михеев",
+    "jobTitle": 7,
+    "id": 867,
+    "sex": "м",
+    "birthday": "5.18.1958",
+    "salary": 42000
+  },
+  {
+    "surname": "Морозов",
+    "jobTitle": 7,
+    "id": 555,
+    "sex": "м",
+    "birthday": "2.12.1946",
+    "salary": 48000
+  },
+  {
+    "surname": "Мосин",
+    "jobTitle": 8,
+    "id": 397,
+    "sex": "м",
+    "birthday": "8.19.1947",
+    "salary": 40000
+  },
+  {
+    "surname": "Муравьев",
+    "jobTitle": 4,
+    "id": 855,
+    "sex": "м",
+    "birthday": "6.7.1956",
+    "salary": 40000
+  },
+  {
+    "surname": "Парфенов",
+    "jobTitle": 5,
+    "id": 881,
+    "sex": "м",
+    "birthday": "5.13.1953",
+    "salary": 62000
+  },
+  {
+    "surname": "Петелин",
+    "jobTitle": 7,
+    "id": 255,
+    "sex": "м",
+    "birthday": "12.25.1963",
+    "salary": 46000
+  },
+  {
+    "surname": "Пирожкова",
+    "jobTitle": 4,
+    "id": 244,
+    "sex": "ж",
+    "birthday": "2.23.1954",
+    "salary": 48000
+  },
+  {
+    "surname": "Платов",
+    "jobTitle": 7,
+    "id": 629,
+    "sex": "м",
+    "birthday": "10.7.1966",
+    "salary": 40000
+  },
+  {
+    "surname": "Потапов",
+    "jobTitle": 5,
+    "id": 270,
+    "sex": "м",
+    "birthday": "6.10.1956",
+    "salary": 68000
+  },
+  {
+    "surname": "Протопопов",
+    "jobTitle": 3,
+    "id": 558,
+    "sex": "м",
+    "birthday": "9.7.1976",
+    "salary": 80000
+  },
+  {
+    "surname": "Пряхин",
+    "jobTitle": 4,
+    "id": 193,
+    "sex": "м",
+    "birthday": "3.4.1954",
+    "salary": 46000
+  },
+  {
+    "surname": "Птицын",
+    "jobTitle": 4,
+    "id": 105,
+    "sex": "м",
+    "birthday": "4.7.1949",
+    "salary": 48000
+  },
+  {
+    "surname": "Путов",
+    "jobTitle": 4,
+    "id": 890,
+    "sex": "м",
+    "birthday": "6.1.1949",
+    "salary": 40000
+  },
+  {
+    "surname": "Ромов",
+    "jobTitle": 7,
+    "id": 433,
+    "sex": "м",
+    "birthday": "3.1.1957",
+    "salary": 48000
+  },
+  {
+    "surname": "Сейфетдинов",
+    "jobTitle": 7,
+    "id": 646,
+    "sex": "м",
+    "birthday": "4.17.1947",
+    "salary": 20000
+  },
+  {
+    "surname": "Сенин",
+    "jobTitle": 4,
+    "id": 725,
+    "sex": "м",
+    "birthday": "7.9.1957",
+    "salary": 46000
+  },
+  {
+    "surname": "Сергеев",
+    "jobTitle": 6,
+    "id": 804,
+    "sex": "м",
+    "birthday": "5.12.1971",
+    "salary": 32000
+  },
+  {
+    "surname": "Сидоров",
+    "jobTitle": 7,
+    "id": 41,
+    "sex": "м",
+    "birthday": "3.21.1963",
+    "salary": 46000
+  },
+  {
+    "surname": "Симонов",
+    "jobTitle": 7,
+    "id": 208,
+    "sex": "м",
+    "birthday": "3.24.1958",
+    "salary": 46000
+  },
+  {
+    "surname": "Смирнов",
+    "jobTitle": 7,
+    "id": 619,
+    "sex": "м",
+    "birthday": "7.24.1972",
+    "salary": 40000
+  },
+  {
+    "surname": "Соколов",
+    "jobTitle": 6,
+    "id": 578,
+    "sex": "м",
+    "birthday": "4.12.1949",
+    "salary": 40000
+  },
+  {
+    "surname": "Солодов",
+    "jobTitle": 2,
+    "id": 594,
+    "sex": "м",
+    "birthday": "7.28.1947",
+    "salary": 82000
+  },
+  {
+    "surname": "Степанов",
+    "jobTitle": 7,
+    "id": 358,
+    "sex": "м",
+    "birthday": "1.14.1960",
+    "salary": 40000
+  },
+  {
+    "surname": "Ступин",
+    "jobTitle": 7,
+    "id": 453,
+    "sex": "м",
+    "birthday": "5.9.1953",
+    "salary": 58000
+  },
+  {
+    "surname": "Толубеев",
+    "jobTitle": 4,
+    "id": 306,
+    "sex": "м",
+    "birthday": "3.6.1958",
+    "salary": 40000
+  },
+  {
+    "surname": "Трофимов",
+    "jobTitle": 4,
+    "id": 427,
+    "sex": "м",
+    "birthday": "7.4.1955",
+    "salary": 46000
+  },
+  {
+    "surname": "Фролов",
+    "jobTitle": 5,
+    "id": 384,
+    "sex": "м",
+    "birthday": "9.1.1950",
+    "salary": 28000
+  },
+  {
+    "surname": "Шатов",
+    "jobTitle": 8,
+    "id": 434,
+    "sex": "м",
+    "birthday": "3.8.1955",
+    "salary": 40000
+  },
+  {
+    "surname": "Шичко",
+    "jobTitle": 5,
+    "id": 518,
+    "sex": "ж",
+    "birthday": "4.29.1968",
+    "salary": 48000
+  },
+  {
+    "surname": "Щеглов",
+    "jobTitle": 5,
+    "id": 118,
+    "sex": "м",
+    "birthday": "9.7.1955",
+    "salary": 57000
+  }
+]

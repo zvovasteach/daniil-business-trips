@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Испытания",
+    "minEmployees": 4,
+    "management": [1, 3, 4],
+    "performers": [4, 5, 7]
+  },
+  {
+    "id": 2,
+    "name": "Строительство",
+    "minEmployees": 6,
+    "management": [1, 3, 6],
+    "performers": [4, 5, 6, 7, 8]
+  },
+  {
+    "id": 3,
+    "name": "Предварительное обследование",
+    "minEmployees": 5,
+    "management": [1, 3],
+    "performers": [4, 5, 6, 7]
+  },
+  {
+    "id": 4,
+    "name": "Прием объекта",
+    "minEmployees": 4,
+    "management": [1, 2, 3],
+    "performers": [4, 5, 6]
+  },
+  {
+    "id": 5,
+    "name": "Заключение договора",
+    "minEmployees": 2,
+    "management": [1, 2, 3],
+    "performers": [3]
+  },
+  {
+    "id": 6,
+    "name": "Переговоры",
+    "minEmployees": 3,
+    "management": [1, 2],
+    "performers": [3, 6]
+  }
+]

@@ -1,0 +1,164 @@
+[
+  {
+    "region": "Архангельская область",
+    "kilometers": 1300,
+    "timeByCar": 24,
+    "priceTrain": 2300,
+    "timeByTrain": 20,
+    "priceFlight": 5500,
+    "timeByFlight": 4
+  },
+  {
+    "region": "Астраханская область",
+    "kilometers": 1400,
+    "timeByCar": 24,
+    "priceTrain": 3000,
+    "timeByTrain": 26,
+    "priceFlight": 6000,
+    "timeByFlight": 3
+  },
+  {
+    "region": "Владимирская область",
+    "kilometers": 200,
+    "timeByCar": 4,
+    "priceTrain": 1300,
+    "timeByTrain": 2,
+    "priceFlight": null,
+    "timeByFlight": null
+  },
+  {
+    "region": "Вологодская область",
+    "kilometers": 500,
+    "timeByCar": 8,
+    "priceTrain": 1400,
+    "timeByTrain": 9,
+    "priceFlight": 5000,
+    "timeByFlight": 1.5
+  },
+  {
+    "region": "Ивановская область",
+    "kilometers": 300,
+    "timeByCar": 5,
+    "priceTrain": 1100,
+    "timeByTrain": 7,
+    "priceFlight": 3500,
+    "timeByFlight": 1
+  },
+  {
+    "region": "Калининградская область",
+    "kilometers": 1300,
+    "timeByCar": 24,
+    "priceTrain": 3700,
+    "timeByTrain": 21,
+    "priceFlight": 6000,
+    "timeByFlight": 2
+  },
+  {
+    "region": "Калужская область",
+    "kilometers": 200,
+    "timeByCar": 3,
+    "priceTrain": 900,
+    "timeByTrain": 2,
+    "priceFlight": null,
+    "timeByFlight": null
+  },
+  {
+    "region": "Краснодарский край",
+    "kilometers": 1300,
+    "timeByCar": 24,
+    "priceTrain": 2900,
+    "timeByTrain": 27,
+    "priceFlight": 5000,
+    "timeByFlight": 2
+  },
+  {
+    "region": "Ленинградская область",
+    "kilometers": 700,
+    "timeByCar": 12,
+    "priceTrain": 1600,
+    "timeByTrain": 8,
+    "priceFlight": 3000,
+    "timeByFlight": 1.5
+  },
+  {
+    "region": "Липецкая область",
+    "kilometers": 500,
+    "timeByCar": 10,
+    "priceTrain": 1500,
+    "timeByTrain": 11,
+    "priceFlight": 4500,
+    "timeByFlight": 1
+  },
+  {
+    "region": "Московская область",
+    "kilometers": 100,
+    "timeByCar": 2,
+    "priceTrain": 300,
+    "timeByTrain": 2,
+    "priceFlight": null,
+    "timeByFlight": null
+  },
+  {
+    "region": "Новгородская область",
+    "kilometers": 450,
+    "timeByCar": 7,
+    "priceTrain": 1500,
+    "timeByTrain": 10,
+    "priceFlight": null,
+    "timeByFlight": null
+  },
+  {
+    "region": "Псковская область",
+    "kilometers": 700,
+    "timeByCar": 11,
+    "priceTrain": 2400,
+    "timeByTrain": 13,
+    "priceFlight": 3700,
+    "timeByFlight": 2
+  },
+  {
+    "region": "Рязанская область",
+    "kilometers": 200,
+    "timeByCar": 4,
+    "priceTrain": 900,
+    "timeByTrain": 3,
+    "priceFlight": null,
+    "timeByFlight": null
+  },
+  {
+    "region": "Самарская область",
+    "kilometers": 1100,
+    "timeByCar": 22,
+    "priceTrain": 3000,
+    "timeByTrain": 17,
+    "priceFlight": 5500,
+    "timeByFlight": 2
+  },
+  {
+    "region": "Ставропольский край",
+    "kilometers": 1400,
+    "timeByCar": 24,
+    "priceTrain": 3000,
+    "timeByTrain": 24,
+    "priceFlight": null,
+    "timeByFlight": null
+  },
+  {
+    "region": "Тверская область",
+    "kilometers": 200,
+    "timeByCar": 5,
+    "priceTrain": 800,
+    "timeByTrain": 2,
+    "priceFlight": null,
+    "timeByFlight": null
+  },
+  {
+    "region": "Ярославская область",
+    "kilometers": 300,
+    "timeByCar": 7,
+    "priceTrain": 1000,
+    "timeByTrain": 4,
+    "priceFlight": 3500,
+    "timeByFlight": 1
+  }
+]
