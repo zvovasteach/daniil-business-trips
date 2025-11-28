@@ -15,14 +15,6 @@ export default {
     '**/coverage/**',
   ],
   rules: {
-    'plugin/no-unsupported-browser-features': [
-      true,
-      {
-        severity: 'warning',
-        ignorePartialSupport: true,
-        ignore: ['css-masks', 'css-appearance', 'css-nesting', 'css-media-range-syntax', 'css-scrollbar', 'css3-cursors-grab'],
-      },
-    ],
     '@stylistic/at-rule-name-space-after': 'always',
     '@stylistic/block-closing-brace-newline-before': 'always',
     '@stylistic/block-opening-brace-newline-after': 'always',

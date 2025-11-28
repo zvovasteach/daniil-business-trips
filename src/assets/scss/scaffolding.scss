@@ -1,5 +1,3 @@
-@use "ds-system/ds" as *;
-
 @layer scaffolding {
   table {
     contain: strict;
@@ -28,9 +26,6 @@
 
     font-size: 16px;
 
-
-    background-color: $bg-color;
-
     @media (prefers-color-scheme: dark) {
       background-color: var(--p-surface-950);
     }
@@ -51,7 +46,9 @@
     object-fit: scale-down;
   }
 
-  a {
+  a,
+  a:visited,
+  a.any-link {
     color: inherit;
     text-decoration: none;
   }

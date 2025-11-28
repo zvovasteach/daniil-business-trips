@@ -24,7 +24,10 @@
     "vitest:coverage": "vitest run --coverage"
   },
   "dependencies": {
+    "@primeuix/themes": "^2.0.1",
+    "@primevue/themes": "^4.5.0",
     "pinia": "^3.0.4",
+    "primevue": "^4.4.1",
     "vue": "^3.5.25",
     "vue-router": "^4.6.3",
     "zod": "^4.1.13",

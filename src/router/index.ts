@@ -3,7 +3,7 @@ import type { GenerateRoutesMap, NamedRouteRecordRaw } from 'vue-routes-to-types
 
 import { routes as mainRoutes } from '@/router/routes.ts';
 
-let routes: NamedRouteRecordRaw[] = [...mainRoutes];
+const routes: NamedRouteRecordRaw[] = [...mainRoutes];
 
 export const router = createRouter({
   history: createWebHistory(),
