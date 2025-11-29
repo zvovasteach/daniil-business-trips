@@ -1,11 +1,12 @@
 <template>
   <div class="layout-content">
     <PanelMenu :model="menuItems" multiple class="panel-menu">
-      <template #item="{item}">
+      <template #item="{item}" class="panel-menu-template">
         <router-link
           v-if="item.route"
           v-slot="{ href, navigate }"
           :to="item.route"
+          active-class="active-link"
         >
           <a :href="href" @click="navigate">
             <span>{{ item.label }}</span>
@@ -24,18 +25,33 @@ import { ref } from 'vue';
 
 const menuItems = ref([
   {
-    label: 'Home',
+    label: 'Таблицы',
     icon: 'pi pi-file',
     items: [
       {
-        label: 'Test',
+        label: 'Командировки',
         icon: 'pi pi-file',
-        route: '/home/test',
+        route: '/home/BusinessTrips',
       },
       {
-        label: 'Test2',
+        label: 'Рабочие',
         icon: 'pi pi-file',
-        route: '/home/test2',
+        route: '/home/Employees',
+      },
+      {
+        label: 'Виды командировок',
+        icon: 'pi pi-file',
+        route: '/home/Goals',
+      },
+      {
+        label: 'Профессии',
+        icon: 'pi pi-file',
+        route: '/home/JobTitles',
+      },
+      {
+        label: 'Регионы',
+        icon: 'pi pi-file',
+        route: '/home/Regions',
       },
     ],
   },
@@ -62,5 +78,12 @@ const menuItems = ref([
 
 .panel-menu {
   width: 15rem;
+}
+
+.active-link {
+  font-weight: bold;
+  color: #ffffff;
+  border-bottom: 1px solid #ffffff;
+  margin-bottom: -1px;
 }
 </style>

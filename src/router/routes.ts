@@ -17,14 +17,29 @@ export const routes = [
     component: () => import('@/views/ViewHome.vue'),
   },
   {
-    path: '/home/test',
-    name: RouteName.APP.HOME_TEST,
-    component: () => import('@/modules/Home/HomeTest.vue'),
+    path: '/home/BusinessTrips',
+    name: RouteName.APP.BUSINESS_TRIPS,
+    component: () => import('@/modules/Tables/BusinessTrips.vue'),
   },
   {
-    path: '/home/test2',
-    name: RouteName.APP.HOME_TEST2,
-    component: () => import('@/modules/Home/HomeTest2.vue'),
+    path: '/home/Employees',
+    name: RouteName.APP.EMPLOYEES,
+    component: () => import('@/modules/Tables/Employees.vue'),
+  },
+  {
+    path: '/home/Goals',
+    name: RouteName.APP.GOALS,
+    component: () => import('@/modules/Tables/Goals.vue'),
+  },
+  {
+    path: '/home/JobTitles',
+    name: RouteName.APP.JOB_TITLES,
+    component: () => import('@/modules/Tables/JobTitles.vue'),
+  },
+  {
+    path: '/home/Regions',
+    name: RouteName.APP.REGIONS,
+    component: () => import('@/modules/Tables/Regions.vue'),
   },
   {
     path: '/admin',

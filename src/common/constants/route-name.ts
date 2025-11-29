@@ -1,9 +1,12 @@
 export const RouteName = {
   APP: {
-    HOME: 'appHome',
-    HOME_TEST: 'appHomeTest',
-    HOME_TEST2: 'appHomeTest2',
-    ADMIN: 'appAdmin',
-    ADMIN_TEST: 'appAdminTest',
+    HOME: 'home',
+    BUSINESS_TRIPS: 'businessTrips',
+    EMPLOYEES: 'employees',
+    GOALS: 'goals',
+    JOB_TITLES: 'jobTitles',
+    REGIONS: 'regions',
+    ADMIN: 'admin',
+    ADMIN_TEST: 'adminTest',
   },
 };
