@@ -1,7 +1,7 @@
 <template>
   <div class="layout-content">
     <PanelMenu :model="menuItems" multiple class="panel-menu">
-      <template #item="{item}" class="panel-menu-template">
+      <template #item="{item}">
         <router-link
           v-if="item.route"
           v-slot="{ href, navigate }"
@@ -81,9 +81,9 @@ const menuItems = ref([
 }
 
 .active-link {
+  margin-bottom: -1px;
+  border-bottom: 1px solid #ffffff;
   font-weight: bold;
   color: #ffffff;
-  border-bottom: 1px solid #ffffff;
-  margin-bottom: -1px;
 }
 </style>

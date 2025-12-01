@@ -8,10 +8,22 @@
       removable-sort
     >
       <Column field="surname" header="Фамилия" sortable />
-      <Column field="jobTitle" header="Профессия" sortable style="text-align: center" />
-      <Column field="sex" header="Пол" sortable style="text-align: center" />
-<!--      <Column field="birthday" header="Дата рождения" sortable style="text-align: center" />-->
-      <Column field="salary" header="Зарплата" sortable style="text-align: center" />
+      <Column
+        field="jobTitle"
+        header="Профессия"
+        sortable
+        style="text-align: start;"
+      >
+        <template #body="slotProps">
+          {{ getJobTitle(slotProps.data.jobTitle) }}
+        </template>
+      </Column>
+      <Column
+        field="salary"
+        header="Зарплата"
+        sortable
+        style="text-align: start;"
+      />
       <Column field="id" header="ID" />
     </DataTable>
   </div>
@@ -21,5 +33,6 @@
 import Column from 'primevue/column';
 import DataTable from 'primevue/datatable';
 
+import { getJobTitle } from '@/common/helpers/helpers.ts';
 import employeesData from '@/static/employees.json';
 </script>

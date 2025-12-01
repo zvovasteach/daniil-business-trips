@@ -19,27 +19,27 @@ export const routes = [
   {
     path: '/home/BusinessTrips',
     name: RouteName.APP.BUSINESS_TRIPS,
-    component: () => import('@/modules/Tables/BusinessTrips.vue'),
+    component: () => import('@/modules/Tables/TableBusinessTrips.vue'),
   },
   {
     path: '/home/Employees',
     name: RouteName.APP.EMPLOYEES,
-    component: () => import('@/modules/Tables/Employees.vue'),
+    component: () => import('@/modules/Tables/TableEmployees.vue'),
   },
   {
     path: '/home/Goals',
     name: RouteName.APP.GOALS,
-    component: () => import('@/modules/Tables/Goals.vue'),
+    component: () => import('@/modules/Tables/TableGoals.vue'),
   },
   {
     path: '/home/JobTitles',
     name: RouteName.APP.JOB_TITLES,
-    component: () => import('@/modules/Tables/JobTitles.vue'),
+    component: () => import('@/modules/Tables/TableJobTitles.vue'),
   },
   {
     path: '/home/Regions',
     name: RouteName.APP.REGIONS,
-    component: () => import('@/modules/Tables/Regions.vue'),
+    component: () => import('@/modules/Tables/TableRegions.vue'),
   },
   {
     path: '/admin',
